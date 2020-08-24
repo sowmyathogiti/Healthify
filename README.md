@@ -100,7 +100,9 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
 ## Acceptance Criteria:
 
-- The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops. 
+- The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops.
+- App’s performance for designated and non-designated tasks.
+- User can access the application only by submitting required details.
 
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
