@@ -48,6 +48,38 @@ Not only creating and managing the group challenges, admin can download all the 
 
 After getting the results of group challenges, admin will share those results among the group members. It is very useful for the users to increase their friends by sharing them within their group members and earn rewards based on the results.
 
+## User roles:
+
+1)	Create and edit a user profile:
+
+In our Healthify-NWMSU app ,all the users have permissions to create their own profile and they can edit their profile any time.
+
+2)	Choose to use the app anonymously, i.e. choose a username that is not the user's real name: 
+
+Users have permission to choose username on their own and it can be any name apart from their own name
+
+3)	Accept or reject a group assignment:
+
+Users can either accept or reject a group assignment based on their interest, they have complete rights on it 
+
+4)	Enter, view, and modify personal data as needed:
+
+In Healthify-NWMSU app, users have three options 
+•	They can enter data as needed 
+•	After entering the data, if they want to recheck it they have an option to view it 
+•	If they want to do any changes after viewing the entered data they have an option to modify it
+
+5)	Participate in a challenge individually, i.e. not in a group:
+
+    Individual challenges are accepted in Healthify-NWMSU app, because performing some challenges individually will help them to increase self-confident
+    
+6)	View challenge data for the rest of their group:
+
+ Not only doing their individual challenges, users also have permission to view challenge data of other group members.
+ 
+7)	View data from past challenges:
+
+Users have the permission to revisit the challenges that was completed in the past 
 
 
 
