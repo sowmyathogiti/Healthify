@@ -103,7 +103,7 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops. 
 
 ## User interface sketches:
-![Screen1](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen1-ios.jpg)
+![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
 
 ![Screen2](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen2-ios.jpg)
 
