@@ -218,6 +218,24 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  5. Challenge
  6. Target
  
+  **1. User**
+ User entity consists of 6 attributes which includes Email, Password, Username, CreatedDate, LastAccessed, Admin.
+ User may be catgeorized into adminstrator or a normal user.
+ If the Admin attribute is true then the user will be able to gets access to all information including app settings.
+ In this entity user's email, password, username, date of account created and last accessed are stored.
+ where Email, Username, CreatedDate are primary keys. Also username, createdDate are foreign keys to Group, Challenge and DailyLevel entities.
+ Each user will have only one DailyLevel. A dailyLevel must be assigned to atleast one user.
+ A user can create multiple groups or no groups. Also there must be atleast one user who creates the group. 
+ 
+ **2. DailyLevel**
+ This entity stores the details of MeasurementDate, StepCount, Hydration, HoursOfSleep, FruitServings, VegetableServings, TotalServings.
+ With the help of MeasurementDate we can retreive the activities done by the user on a particular day.
+ 
+ **3. Group**
+ This entity stores the details of group name, creator , date and last edited. 
+ If the user has admin privilages then he can create the group.
+ Here with the help Primary key Creator we can able to retreive the details of particular group.
+ 
  
 
 
