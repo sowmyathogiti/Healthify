@@ -116,20 +116,6 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - Customers’ Payment data security.
 - Breach in applications’ security and error reporting.
 
-## Cost Estimation:
-
-| WBS Items | Number of Hours per day | Number of days | Cost per unit | Total Cost |
-|-----|------|-------|--------|---------|
-|1. Planning | | | | $7770 |
-|1.1 Project Manager | 2 | 7 | $80/hr | $1120 |
-|1.2 Developers(2) | 7 | 7 | $50/hr | $4900 |
-|1.3 UI Designer | 5 | 7 | $50/hr | $1750 |
-|2.Development | | | | $11280 |
-|2.1 IDE used | - | 22 | $100/day | $2200 |
-|2.2 Project Manager | 2 | 8 | $80/hr | $1280 |
-|2.3 Developers(2) | 7 | 8 | $50/hr | $5600 |
-|2.4 Repository cloud | - | 22 | $100/day | $2200 |
-
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
@@ -145,6 +131,45 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
 5. A screen to direct towards diet tracker of each individual user.  
 ![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)  
+
+## Technology stack descriptions:
+
+- In Healthify-NWMSU app we used set of technologies, software, and tools like java 
+java scripting, CSS, Html, pwa, XML which were used in the development and deployment of apps
+
+- **JAVA:**
+
+As Java being a platform independent language, we developed Healthify-NWMSU application using java, which will help app to be deploy on any platform. So that it will be flexible for all kind of users 
+We used Java in Healthify-NWMSU app mainly in challenges like to count number of sleep hours, time management
+
+- **Java Scripting:** 
+
+As we all know JavaScript frameworks are well-suited to app development, as they can be used across a number of platforms, including iOS, Android, and Windows.
+We used java scripting in Healthify-NWMSU app for step counting, calorie counting
+
+- **HTML:**
+
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser, which can be assisted by technologies such as - --Cascading Style Sheets (CSS) and scripting languages such as JavaScript
+And there's no denying the fact that we used HTML in Healthify-NWMSU app, which acted as a foundation for the app development. We used different kinds HTML tags like ordered  list, unordered list, headings .
+
+- **CSS (Cascading Style Sheets):**
+
+We used CSS for
+- Styling the text by using font properties 
+- For Changing dimensions
+- For Styling back grounds by changing the image & color
+- For setting the position of icon
+- For utilizing links through text decoration
+
+- **PWA (Progressive Web Application):**
+
+As PWA is intended to work on any platform which uses a standards-compliant browser that allows users to interact with the app independent of the connection when we are running app on internet browser.
+
+It also used for us to catch the app data ahead of time
+
+- **XML (eXtensible Markup Language):**
+It is a markup language created as a standard way to encode data in internet-based applications. In Healthify-NWMSU app we used XML to create layout files for android users 
+We mainly used XML for namespace ,texting and for dimensions like adjustments width and height of the layout 
 
 
 ## ER Diagram
