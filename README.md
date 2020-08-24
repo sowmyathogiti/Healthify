@@ -81,6 +81,14 @@ In Healthify-NWMSU app, users have three options
 
 Users have the permission to revisit the challenges that was completed in the past 
 
+## Security must be addressed throughout the app:
+- The Healthify-NWMSU app will provide convenient and clear controls for administrator functions
+- The Healthify-NWMSU will allow users to enter, view and modify data quickly and it can be easily use modern UL elements
+- The Healthify-NWMSU app will provide a clear confirmation when an operation is completed
+- The Healthify-NWMSU app will provide professional and friendly design and user experience principles
+- The Healthify-NWMSU app is responsive and can able to work on various mobile devices from phones to laptops and tablets in various orientations
+- The Healthify-NWMSU app will provides a customizable theme which contains several color options, we used NW bearcat color in all our pages 
+
 
 
 
