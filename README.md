@@ -106,7 +106,7 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
 ## ER Diagram
 
-![ER Diagram](Downloads/ERD.png)
+![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD.png)
 
 
 
