@@ -207,6 +207,20 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
 
 ![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD.png)
 
+ ### Entity Relation Description
+ An Entity Relationship Diagram shows the graphical description of entities (tables) in a database and relationships between tables within that database. 
+ 
+ #### Here the entities listed are:
+ 1. User
+ 2. DailyLevel
+ 3. Group
+ 4. GroupMember
+ 5. Challenge
+ 6. Target
+ 
+ 
+
+
 
 
 
