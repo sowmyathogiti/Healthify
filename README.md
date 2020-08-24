@@ -88,6 +88,8 @@ Users have the permission to revisit the challenges that was completed in the pa
 - The Healthify-NWMSU app will provide professional and friendly design and user experience principles
 - The Healthify-NWMSU app is responsive and can able to work on various mobile devices from phones to laptops and tablets in various orientations
 - The Healthify-NWMSU app will provides a customizable theme which contains several color options, we used NW bearcat color in all our pages 
+## Acceptance Criteria:
+- The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops- 
 
 
 
