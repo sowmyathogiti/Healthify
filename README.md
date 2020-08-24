@@ -104,9 +104,14 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - App’s performance for designated and non-designated tasks.
 - User can access the application only by submitting required details.
 - Compatibility in different devices, screen size, resolutions, OS and browsers.
-- Enabling responsive Mobile menu for Tablets and Mobiles
-- Easy Navigation across different screens
-- Clarity and Readability of application buttons
+- Enabling responsive Mobile menu for Tablets and Mobiles.
+- Easy Navigation across different screens.
+- Clarity and Readability of application buttons.
+- Responsiveness of drop-down lists.
+- Distinguishing the inactive buttons from active buttons.
+- Making/Receiving voice calls while the app is running.
+- Resuming App from the same point as left at the time of switching to another app.
+
 
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
