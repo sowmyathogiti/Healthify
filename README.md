@@ -128,12 +128,12 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
 ## Schedule Management:
 
-| Names | Roles | Week-1 | Week-2 | week-3 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Days |
+| Names | Roles | Week-1 | Week-2 | week-3 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|
 |1. Sowmya Thogiti | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
 |2. Vineetha Yenugula | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
 |3. Swaroopa TirumalaReddy | Developer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
-|4. Naga Anshitha Velagapudi | Tester | 4hrs | 3.5hrs | 3.5hrs | 4.5hrs | 6.5hrs | 11hrs |
+|4. Naga Anshitha Velagapudi | Tester | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
 |5. Shiva Rama Krishna | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
 
 
