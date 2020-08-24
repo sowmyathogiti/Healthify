@@ -18,7 +18,7 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 | Naga Anshitha Velagapudi | Tester |
 | Shiva Rama Krishna | UI Designer |
 
-## Benifits:
+## Benefits:
 
 - Monitor your diet every day
 - Track your footsteps
@@ -205,7 +205,7 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
 
 ## ER Diagram
 
-![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD.png)
+![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD-Healthify.png)
 
  ### Entity Relation Description
  An Entity Relationship Diagram shows the graphical description of entities (tables) in a database and relationships between tables within that database. 
