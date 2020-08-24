@@ -64,33 +64,33 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
    In our Healthify-NWMSU app ,all the users have permissions to create their own profile and they can edit their profile any time.
 
-2)	**Choose to use the app anonymously, i.e. choose a username that is not the user's real name:**
+2) **Choose to use the app anonymously, i.e. choose a username that is not the user's real name:**
 
    Users have permission to choose username on their own and it can be any name apart from their own name.
 
-3)	**Accept or reject a group assignment:**
+3) **Accept or reject a group assignment:**
 
    Users can either accept or reject a group assignment based on their interest, they have complete rights on it.
 
-4)	**Enter, view, and modify personal data as needed:**
+4) **Enter, view, and modify personal data as needed:**
 
    In Healthify-NWMSU app, users have three options 
 
-•	They can enter data as needed.
+	• They can enter data as needed.
 
-•	After entering the data, if they want to recheck it they have an option to view it.
+      • After entering the data, if they want to recheck it they have an option to view it.
 
-•	If they want to do any changes after viewing the entered data they have an option to modify it.
+      • If they want to do any changes after viewing the entered data they have an option to modify it.
 
-5)	**Participate in a challenge individually, i.e. not in a group:**
+5) **Participate in a challenge individually, i.e. not in a group:**
 
     Individual challenges are accepted in Healthify-NWMSU app, because performing some challenges individually will help them to increase self-confident.
     
-6)	**View challenge data for the rest of their group:**
+6) **View challenge data for the rest of their group:**
 
      Not only doing their individual challenges, users also have permission to view challenge data of other group members.
  
-7)	**View data from past challenges:**
+7) **View data from past challenges:**
 
      Users have the permission to revisit the challenges that was completed in the past. 
 
