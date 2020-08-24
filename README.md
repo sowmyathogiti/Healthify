@@ -111,7 +111,10 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - Distinguishing the inactive buttons from active buttons.
 - Making/Receiving voice calls while the app is running.
 - Resuming App from the same point as left at the time of switching to another app.
-
+- Application install/uninstall successfully within the desired timeframe.
+- Deploy Live Monitoring Services to keep the app’s computing power on check.
+- Customers’ Payment data security.
+- Breach in applications’ security and error reporting.
 
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
