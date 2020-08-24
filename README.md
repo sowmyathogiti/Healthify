@@ -67,7 +67,9 @@ Users can either accept or reject a group assignment based on their interest, th
 In Healthify-NWMSU app, users have three options 
 
 •	They can enter data as needed 
+
 •	After entering the data, if they want to recheck it they have an option to view it 
+
 •	If they want to do any changes after viewing the entered data they have an option to modify it
 
 5)	**Participate in a challenge individually, i.e. not in a group:**
