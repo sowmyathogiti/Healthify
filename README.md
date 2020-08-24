@@ -213,6 +213,7 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  #### Here the entities listed are:
  
   **1. User**
+  
  User entity consists of 6 attributes which includes Email, Password, Username, CreatedDate, LastAccessed, Admin.
  User may be catgeorized into adminstrator or a normal user.
  If the Admin attribute is true then the user will be able to gets access to all information including app settings.
