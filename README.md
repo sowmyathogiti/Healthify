@@ -50,7 +50,7 @@ After getting the results of group challenges, admin will share those results am
 
 ## User roles:
 
-1)	Create and edit a user profile:
+**Create and edit a user profile:**
 
 In our Healthify-NWMSU app ,all the users have permissions to create their own profile and they can edit their profile any time.
 
