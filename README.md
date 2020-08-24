@@ -116,6 +116,20 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - Customers’ Payment data security.
 - Breach in applications’ security and error reporting.
 
+## Cost Estimation:
+
+| WBS Items | Number of Hours per day | Number of days | Cost per unit | Total Cost |
+|-----|------|-------|--------|---------|
+|1. Planning | | | | $7770 |
+|1.1 Project Manager | 2 | 7 | $80/hr | $1120 |
+|1.2 Developers(2) | 7 | 7 | $50/hr | $4900 |
+|1.3 UI Designer | 5 | 7 | $50/hr | $1750 |
+|2.Development | | | | $11280 |
+|2.1 IDE used | - | 22 | $100/day | $2200 |
+|2.2 Project Manager | 2 | 8 | $80/hr | $1280 |
+|2.3 Developers(2) | 7 | 8 | $50/hr | $5600 |
+|2.4 Repository cloud | - | 22 | $100/day | $2200 |
+
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
