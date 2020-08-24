@@ -103,20 +103,20 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops. 
 
 ## User interface sketches:
-1. Login page for all users and a button specified for admin login in it.
+1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
 
-2. Login page for admin for managing the whole application.
+2. Login page for admin for managing the whole application.  
 ![Screen2](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen2-ios.JPG)
 
-3. Basic profile details of user which includes height/weight, heart rate, hydration levels, sleep hours maintained.
+3. Basic profile details of user which includes height/weight, heart rate, hydration levels, sleep hours maintained.  
 ![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen3-ios.JPG)
 
-4. A screen to direct towards workout tracker of each indivdual user.
+4. A screen to direct towards workout tracker of each indivdual user.  
 ![Screen4](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen4-ios.JPG)
 
-5. A screen to direct towards diet tracker of each individual user.
-![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)
+5. A screen to direct towards diet tracker of each individual user.  
+![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)  
 
 
 ## ER Diagram
