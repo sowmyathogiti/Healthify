@@ -116,6 +116,17 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 - Customers’ Payment data security.
 - Breach in applications’ security and error reporting.
 
+## Cost Estimation:
+
+| Names | Roles | Number of Hours per day | Number of days | Cost per unit | Total Cost |
+|-----------------------|------|-------|--------|---------|----------|
+|1. Sowmya Thogiti | Admin | 13 | 9 | $80/hr | $1040 |
+|2. Vineetha Yenugula | Developer | 13 | 9 | $100/hr | $1300 |
+|3. Swaroopa TirumalaReddy | Developer | 12 | 9 | $100/hr | $1200 |
+|4. Naga Anshitha Velagapudi | Tester | 14 | 9 | $70/hr | $980 |
+|5. Shiva Rama Krishna | UI Designer | 13 | 9 | $90/hr | $1170 |
+
+
 ## User interface sketches:
 1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
