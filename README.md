@@ -211,15 +211,8 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  An Entity Relationship Diagram shows the graphical description of entities (tables) in a database and relationships between tables within that database. 
  
  #### Here the entities listed are:
- 1. User
- 2. DailyLevel
- 3. Group
- 4. GroupMember
- 5. Challenge
- 6. Target
  
   **1. User**
-  
  User entity consists of 6 attributes which includes Email, Password, Username, CreatedDate, LastAccessed, Admin.
  User may be catgeorized into adminstrator or a normal user.
  If the Admin attribute is true then the user will be able to gets access to all information including app settings.
