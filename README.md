@@ -105,13 +105,13 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 ## User interface sketches:
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
 
-![Screen2](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen2-ios.jpg)
+![Screen2](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen2-ios.JPG)
 
-![Screen3](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen3-ios.jpg)
+![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen3-ios.JPG)
 
-![Screen4](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen4-ios.jpg)
+![Screen4](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen4-ios.JPG)
 
-![Screen5](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/screen5-ios.jpg)
+![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)
 
 
 ## ER Diagram
