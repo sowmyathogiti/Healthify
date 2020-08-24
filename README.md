@@ -125,7 +125,8 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 |3. Swaroopa TirumalaReddy | Developer | 12 | 9 | $100/hr | $1200 |
 |4. Naga Anshitha Velagapudi | Tester | 14 | 9 | $70/hr | $980 |
 |5. Shiva Rama Krishna | UI Designer | 13 | 9 | $90/hr | $1170 |
-### Overall Cost estimation to develop this application - $5690
+
+Overall Cost estimation to develop this application - $5690
 
 
 ## User interface sketches:
