@@ -8,6 +8,16 @@
 
 Healthify-NWMSU isn’t the only fitness app that helps users track their diet and weight, and set fitness goals, but it certainly sets itself apart with its unique features and offerings. The free-to-download Healthify-NWMSU app allows users to track calories, set fitness goals, manage group challenges, view data from past challenges, participate in challenges, and measure progress. With a large database of foods and syncing capabilities with the industry’s leading fitness trackers, Healthify-NWMSU helps users track their daily food intake and measure calories accurately. As there is a saying “An app a day keeps the doctor away” our app justify this saying.
 
+## User Roles
+
+| Names | User Roles |
+|----------|-------------|
+| Sowmya Thogiti | Admin |
+| Vineetha Yenugula | Developer |
+| Swaroopa TirumalaReddy | Developer |
+| Naga Anshitha Velagapudi | Tester |
+| Shiva Rama Krishna | UI Designer |
+
 ## Benifits:
 
 - Monitor your diet every day
