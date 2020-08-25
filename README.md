@@ -8,9 +8,12 @@
 
 Healthify-NWMSU isn’t the only fitness app that helps users track their diet and weight, and set fitness goals, but it certainly sets itself apart with its unique features and offerings. The free-to-download Healthify-NWMSU app allows users to track calories, set fitness goals, manage group challenges, view data from past challenges, participate in challenges, and measure progress. With a large database of foods and syncing capabilities with the industry’s leading fitness trackers, Healthify-NWMSU helps users track their daily food intake and measure calories accurately. As there is a saying “An app a day keeps the doctor away” our app justify this saying. 
 
-## Repository Link: [Healthify-NWMSU](https://github.com/sowmyathogiti/Healthify-NWMSU)  
-## Hosted page link: [web page](https://www.fluidui.com/editor/live/preview/cF9aYnZXOGhXVFhRMU4wZ05jZzZGdkY0c01mRDFkekdRYw==)  
-## Jira project link: [Jira_Healthify-NWMSU](https://sowmyathogiti27.atlassian.net/jira/servicedesk/projects/HN/queues/custom/1)  
+### Repository Link:  
+Main git repository ofour project is here [Healthify-NWMSU](https://github.com/sowmyathogiti/Healthify-NWMSU)  
+### Hosted page link:  
+Main hosted page link is here [web page](https://www.fluidui.com/editor/live/preview/cF9aYnZXOGhXVFhRMU4wZ05jZzZGdkY0c01mRDFkekdRYw==)  
+### Jira project link:  
+The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://sowmyathogiti27.atlassian.net/jira/servicedesk/projects/HN/queues/custom/1)  
 
 ## User Roles
 
@@ -256,7 +259,8 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  This entity stores TargetName, TargetDescription and Numberical Goal.
  Admin can add same targets in multiple challenges. So, ther might be a chance that user can do same workout in different challenges.  
  
- ## Original RFP: A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
+ ### Original RFP:
+A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
  
  
 
