@@ -258,7 +258,10 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  **6. Target**
  
  This entity stores TargetName, TargetDescription and Numberical Goal.
- Admin can add same targets in multiple challenges. So, ther might be a chance that user can do same workout in different challenges.  
+ Admin can add same targets in multiple challenges. So, ther might be a chance that user can do same workout in different challenges. 
+ 
+ ### Sample data:  
+ Sample data of the mentioned entities of ER- diagram could be found in this file [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify%20Excel%20Sheet.xlsx)
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
