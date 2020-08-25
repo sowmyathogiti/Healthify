@@ -158,6 +158,7 @@ Overall Cost estimation to develop this application - $6,517.5
 
 
 ## User interface sketches:
+Healthify_NWMSU application design and interface sketches are having a common frame layout for all the screens. The opening page looks similar to common login pages for all other the applications which can also redirect to admin page with having a button on it. In the next page, you can redirect to admin login upon admin btton in the first page. In the next page you can find the basic profile details of each individuals of users and admins as well. In the third page you can find the workout tracker which enables you to get all kinds of workout mentioned in it and  tracked based on the perofrmed activity by each user. In the last page you can find the diet trcker by adding all the food taken as calorie count based upon the timings of it and the amounts food taken by inserting in the page. And each page will have individual challenges based on the steps/workout/diet.
 1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)
 
