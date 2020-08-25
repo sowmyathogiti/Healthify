@@ -130,24 +130,24 @@ Healthify-NWMSU isn’t the only fitness app that helps users track their diet a
 
 | Names | Roles | Week-1 | Week-2 | week-3 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|
-|1. Sowmya Thogiti | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
-|2. Vineetha Yenugula | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
-|3. Swaroopa TirumalaReddy | Developer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
-|4. Naga Anshitha Velagapudi | Tester | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
-|5. Shiva Rama Krishna | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 8.5hrs | 13hrs |
+|1. Sowmya Thogiti | Admin | 9hrs| 10hrs | 11hrs | 3hrs | 2.5hrs | 35.5hrs |
+|2. Vineetha Yenugula | Developer | 9hrs | 10hrs | 12hrs | 3hrs | 3hrs | 37hrs |
+|3. Swaroopa TirumalaReddy | Developer | 9hrs | 10.5hrs | 11.5hrs | 3hrs | 3hrs | 37hrs |
+|4. Naga Anshitha Velagapudi | Tester | 10hrs | 11hrs | 12hrs | 3hrs | 3hrs | 39hrs |
+|5. Shiva Rama Krishna | UI Designer | 11hrs | 12hrs | 10hrs | 3hrs | 3hrs | 39hrs |
 
 
 ## Cost Estimation:
 
 | Names | Roles | Number of Hours per day | Number of days | Cost per unit | Total Cost |
 |-----------------------|------|-------|--------|---------|----------|
-|1. Sowmya Thogiti | Admin | 13 | 9 | $80/hr | $1040 |
-|2. Vineetha Yenugula | Developer | 13 | 9 | $100/hr | $1300 |
-|3. Swaroopa TirumalaReddy | Developer | 12 | 9 | $100/hr | $1200 |
-|4. Naga Anshitha Velagapudi | Tester | 14 | 9 | $70/hr | $980 |
-|5. Shiva Rama Krishna | UI Designer | 13 | 9 | $90/hr | $1170 |
+|1. Sowmya Thogiti | Admin | 1 | 15 | $80/hr | $1200 |
+|2. Vineetha Yenugula | Developer | 2 | 7.5 | $90/hr | $1350 |
+|3. Swaroopa TirumalaReddy | Developer | 1.5 | 13 | $65/hr | $1267.5 |
+|4. Naga Anshitha Velagapudi | Tester | 2 | 9 | $80/hr | $1440 |
+|5. Shiva Rama Krishna | UI Designer | 3 | 6 | $70/hr | $1260 |
 
-Overall Cost estimation to develop this application - $5690
+Overall Cost estimation to develop this application - $6,517.5
 
 
 ## User interface sketches:
