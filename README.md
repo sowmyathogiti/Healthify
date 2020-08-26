@@ -98,20 +98,21 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 ## Acceptance Criteria:
 
 - The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops.
-- App’s performance for designated and non-designated tasks.
-- User can access the application only by submitting required details.
-- Compatibility in different devices, screen size, resolutions, OS and browsers.
-- Enabling responsive Mobile menu for Tablets and Mobiles.
-- Easy Navigation across different screens.
-- Clarity and Readability of application buttons.
+- Admin is able to view and download all data entered by the user by just selecting the get data intoa file button.
+- Admin is able to  create and manage the user groups by selecting add symbol.
+- Admin is able to share challenge results with group members by clicking release results button.
+- Users are able to create and edit data of personal details upon signup.  
+- Users are able to participate in new challenges just by clicking register buttons on each page of challenges.    
+- Users are able to accept or reject group assignents upon receiving mails from the admin invites.  
+- Users are able to view data from past challenges by clicking on the results.  
+- User can access the application only by submitting required details.   
+- Enabling responsive Mobile menu for Tablets and Mobiles.  
+- Easy Navigation across different screens.  
+- Clarity and Readability of application buttons.  
 - Responsiveness of drop-down lists.
 - Distinguishing the inactive buttons from active buttons.
-- Making/Receiving voice calls while the app is running.
-- Resuming App from the same point as left at the time of switching to another app.
-- Application install/uninstall successfully within the desired timeframe.
-- Deploy Live Monitoring Services to keep the app’s computing power on check.
 - Customers’ Payment data security.
-- Breach in applications’ security and error reporting.
+
 
 ## Schedule Management:
 
