@@ -115,13 +115,13 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
  ### Assigning user stories to Sprints:
 
-| Module/Sprint | Content |
-|----------|-------------|
-| Sprint1 | Implementation of Minimally Viable Products MVP begins |
-| Sprint2 | Demonstrations, updates to design and MVPs |
-| Sprint3 | Demonstrations, updates to design and MVPs  |
-| Sprint4 | Demonstrations, updates to design and MVPs |
-| Plan GDP 2 sprints | Final MVP, intial project plan for next semester, final submission |
+| Module/Sprint | Start Date | End Date | Content |
+|----------|-------------|-----------|--------|
+| Sprint1 | 09-28-2020 | 10-05-2020 | Implementation of Minimally Viable Products MVP begins |
+| Sprint2 | 10-12-2020 | 10-19-2020 | Demonstrations, updates to design and MVPs |
+| Sprint3 | 10-26-2020 | 11-02-2020 | Demonstrations, updates to design and MVPs  |
+| Sprint4 |  |  | Demonstrations, updates to design and MVPs |
+| Plan GDP 2 sprints |  |  | Final MVP, intial project plan for next semester, final submission |
 
 Sprint 1
 1. Story: As a user, I want to able to create and edit my profile, so I can add new data to my profile when I want.
