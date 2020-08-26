@@ -252,6 +252,9 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  3. Group
  ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Group.png)
  
+ 4. Group Member
+ ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Group%20Member.png)
+ 
  
  
  ### Original RFP:
