@@ -246,6 +246,10 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  1. User
  ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/User.png)
  
+ 2. Daily Level
+ ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Daily%20Level.png)
+ 
+ 
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
  
