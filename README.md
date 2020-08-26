@@ -148,20 +148,11 @@ Sprint 3
 
 ## Schedule Management:
 
-![Schedule Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/Screenshot%20(51).png)
+![Schedule Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ScheduleManagementSS.png)
 
+## Cost Estimation
 
-## Cost Estimation:
-
-| Names | Roles | Number of Hours per day | Number of days | Cost per unit | Total Cost |
-|-----------------------|------|-------|--------|---------|----------|
-|1. Sowmya Thogiti | Admin | 1 | 15 | $80/hr | $1200 |
-|2. Vineetha Yenugula | Developer | 2 | 7.5 | $90/hr | $1350 |
-|3. Swaroopa TirumalaReddy | Developer | 1.5 | 13 | $65/hr | $1267.5 |
-|4. Naga Anshitha Velagapudi | Tester | 2 | 9 | $80/hr | $1440 |
-|5. Shiva Rama Krishna | UI Designer | 3 | 6 | $70/hr | $1260 |
-
-Overall Cost estimation to develop this application - $6,517.5
+![Cost Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/CostEstimateSS.png)
 
 
 ## User interface sketches:
