@@ -242,6 +242,10 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  ### Sample data:  
  Sample data of the mentioned entities of ER- diagram could be found in this file [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify%20Excel%20Sheet.xlsx)
  
+ Screens of sample data are below:
+ 1. User
+ ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/User.png)
+ 
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
  
