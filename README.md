@@ -116,6 +116,7 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
  ### Assigning user stories to Sprints:
 
 | Module/Sprint | Content |
+|----------|-------------|
 | Sprint1 | Implementation of Minimally Viable Products MVP begins |
 | Sprint2 | Demonstrations, updates to design and MVPs |
 | Sprint3 | Demonstrations, updates to design and MVPs  |
