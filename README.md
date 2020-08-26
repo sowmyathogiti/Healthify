@@ -264,7 +264,8 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Target.png)
  
  6. Challenge
- ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Challenge.png)
+ 	
+  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Challenge.png)
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
