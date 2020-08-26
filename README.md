@@ -56,25 +56,14 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 ## Administrator Roles: 
 
-1.	**View and download all data entered by users:**
+1. As an admin, I want to able to view and download all data entered by the user, so that I can use data in the future for the extension of the application.
 
-      In our Healthify-NWMSU app, admin will view all the data entered by the users, So that admin can have a basic idea about users and what they are doing with the application. Admin will download all the data entered by the users, which will be used in future for the improvement of the app.
+2. As an admin, I want to able to create and manage the user groups, so I can create new users and can divide users into different groups based on their age and gender.
 
-2.	**Create and manage user groups:**
+3. As an admin, I want to able to download all group and challenge data of the users, so that I can keep records of all the users.
 
-      In our Healthify-NWMSU application, admin is responsible for the overall work in creating and managing user groups. Admin will have authorities to divide users into different groups based on their age, gender.
-  
-3.	**Create and manage group challenges:**
+4. As an admin, I want to share challenge results with group members, so I can avoid conflicts among group members 
 
-      After completion of user groups, admin will create different kinds of group challenges based upon on their age and gender and conduct wide variety of challenges each day. Admin has all types of authorities to propose new challenges and manage them as per the fitness.
-
-4.	**Download all group and challenge data:**
-
-      Not only creating and managing the group challenges, admin can download all the data which will keep record of all the users that are very useful in their future challenges.
-
-5.	**Share challenge results with group members:**
-
-      After getting the results of group challenges, admin will share those results among the group members. It is very useful for the users to increase their friends by sharing them within their group members and earn rewards based on the results.
 
 ## User roles:
 
