@@ -162,11 +162,6 @@ Healthify_NWMSU application design and interface sketches are having a common fr
 - 	In Healthify-NWMSU app we used set of technologies, software, and tools like java, 
 java scripting, CSS, Html, pwa, XML which were used in the development and deployment of apps.
 
-- **JAVA:**
-
-	As Java being a platform independent language, we developed Healthify-NWMSU application using java, which will help app to be deploy on any platform. So that it will be flexible for all kind of users. 
-We used Java in Healthify-NWMSU app mainly in challenges like to count number of sleep hours, time management
-
 - **Java Scripting:** 
 
 	As we all know JavaScript frameworks are well-suited to app development, as they can be used across a number of platforms, including iOS, Android, and Windows.
