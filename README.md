@@ -117,10 +117,10 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 | Module/Sprint | Start Date | End Date | Content |
 |----------|-------------|-----------|--------|
-| Sprint1 | 09-28-2020 | 10-05-2020 | Implementation of Minimally Viable Products MVP begins |
-| Sprint2 | 10-12-2020 | 10-19-2020 | Demonstrations, updates to design and MVPs |
-| Sprint3 | 10-26-2020 | 11-02-2020 | Demonstrations, updates to design and MVPs  |
-| Sprint4 |  |  | Demonstrations, updates to design and MVPs |
+| Sprint1 | | | Implementation of Minimally Viable Products MVP begins |
+| Sprint2 | 09-28-2020 | 10-05-2020 | Demonstrations, updates to design and MVPs |
+| Sprint3 | 10-12-2020 | 10-19-2020| Demonstrations, updates to design and MVPs  
+| Sprint4 | 10-26-2020 | 11-02-2020| Demonstrations, updates to design and MVPs |
 | Plan GDP 2 sprints |  |  | Final MVP, intial project plan for next semester, final submission |
 
 Sprint 1
