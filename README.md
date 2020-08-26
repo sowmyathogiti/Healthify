@@ -113,7 +113,7 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 - Distinguishing the inactive buttons from active buttons.
 - Customers’ Payment data security.
 
- ### Assigning user stories to Sprints:
+ ## Assigning user stories to Sprints:
 
 | Module/Sprint | Start Date | End Date | Content |
 |----------|-------------|-----------|--------|
@@ -214,16 +214,20 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
 
 - **XML (eXtensible Markup Language):**
 	It is a markup language created as a standard way to encode data in internet-based applications. In Healthify-NWMSU app we used XML to create layout files for android users. We mainly used XML for namespace, texting and for dimensions like adjustments width and height of the layout. 
+	
+## Jira WorkFlow:
+
+![jira workflow](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/jiraWorkflow.png)    
 
 
 ## ER Diagram
 
 ![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD%20Healthify%20DT.png)
 
- ### Entity Relation Description
+ ## Entity Relation Description
  An Entity Relationship Diagram shows the graphical description of entities (tables) in a database and relationships between tables within that database. 
  
- #### Here the entities listed are:
+ Here the entities listed are:
  
   **1. User**
   
