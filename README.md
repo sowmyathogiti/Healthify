@@ -113,6 +113,37 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 - Distinguishing the inactive buttons from active buttons.
 - Customers’ Payment data security.
 
+ ### Assigning user stories to Sprints:
+
+| Module/Sprint | Content |
+| Sprint1 | Implementation of Minimally Viable Products MVP begins |
+| Sprint2 | Demonstrations, updates to design and MVPs |
+| Sprint3 | Demonstrations, updates to design and MVPs  |
+| Sprint4 | Demonstrations, updates to design and MVPs |
+| Plan GDP 2 sprints | Final MVP, intial project plan for next semester, final submission |
+
+Sprint 1
+1. Story: As a user, I want to able to create and edit my profile, so I can add new data to my profile when I want.
+2. Story: As a user, I want to able to use application anonymously, so I can choose username that is not my real name.
+3. Task: Get confirmation on UI sketches needed for next sprint.
+4. Task: Get confirmation on sample data needed for next sprint 
+5. Task: Go over all acceptance criteria PRIOR to the release of these user stories 
+
+Sprint 2
+1. Story: As a user, I want to able to accept or reject a group assignment, so I can have complete rights on what I am doing.
+2. Story: As a user, I want to able to enter, view and modify data, so I can work on my personal as I needed.
+1. Task: Get confirmation on UI sketches needed for next sprint.
+2. Task: Get confirmation on sample data needed for next sprint 
+3. Task: Go over all acceptance criteria PRIOR to the release of these user stories 
+
+ 
+Sprint 3
+1. Story: As a user, I want to able to participate in a challenge individually, so I can able to complete challenges on my own.
+2. Story: As a user, I want to view challenge data for the rest of their group, so I can learn new things from group members.
+3. Story: As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges
+4. Task: Get confirmation on UI sketches needed for next sprint.
+5. Task: Get confirmation on sample data needed for next sprint 
+6. Task: Go over all acceptance criteria PRIOR to the release of these user stories 
 
 ## Schedule Management:
 
