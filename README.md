@@ -116,13 +116,7 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 ## Schedule Management:
 
-| Names | Roles | Week-1 | Week-2 | week-3 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours/week |
-|-----------------------|------|-------|--------|---------|----------|--------------|---------|
-|1. Sowmya Thogiti | Admin | 9hrs| 10hrs | 11hrs | 3hrs/week | 7hrs/week | 30hrs |
-|2. Vineetha Yenugula | Developer | 10hrs | 11hrs | 12hrs | 3hrs/week | 8hrs/week | 33hrs |
-|3. Swaroopa TirumalaReddy | Developer | 10hrs | 11hrs | 12hrs | 3hrs/week | 8hrs/week | 33hrs |
-|4. Naga Anshitha Velagapudi | Tester | 9hrs | 10hrs | 11hrs | 3hrs/week | 7hrs/week | 30hrs |
-|5. Shiva Rama Krishna | UI Designer | 8hrs | 9hrs | 10hrs | 3hrs/week | 6hrs/week | 27hrs |
+![Schedule Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/Screenshot%20(51).png)
 
 
 ## Cost Estimation:
