@@ -156,7 +156,7 @@ Healthify_NWMSU application design and interface sketches are having a common fr
 ![Screen4](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen4-ios.JPG)
 
 6. A screen to direct towards diet tracker of each individual user.  
-![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)  
+![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)    
 
 ## Technology stack descriptions:
 
