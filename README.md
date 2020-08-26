@@ -65,41 +65,21 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 4. As an admin, I want to share challenge results with group members, so I can avoid conflicts among group members 
 
 
-## User roles:
+## User roles:     
+1. As a user, I want to able to create and edit my profile, so I can add new data to my profile when I want.
 
-1) **Create and edit a user profile:**
+2. As a user, I want to able to use application anonymously, so I can choose username that is not my real name.
 
-   In our Healthify-NWMSU app ,all the users have permissions to create their own profile and they can edit their profile any time.
+3. As a user, I want to able to accept or reject a group assignment, so I can have complete rights on what I am doing.
 
-2) **Choose to use the app anonymously, i.e. choose a username that is not the user's real name:**
+4. As a user, I want to able to enter, view and modify data, so I can work on my personal as I needed.
 
-   Users have permission to choose username on their own and it can be any name apart from their own name.
+5. As a user, I want to able to participate in a challenge individually, so I can able to complete challenges on my own.
 
-3) **Accept or reject a group assignment:**
+6. As a user, I want to view challenge data for the rest of their group, so I can learn new things from group members.
 
-   Users can either accept or reject a group assignment based on their interest, they have complete rights on it.
+7. As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges 
 
-4) **Enter, view, and modify personal data as needed:**
-
-   In Healthify-NWMSU app, users have three options 
-
-	• They can enter data as needed.
-
-      • After entering the data, if they want to recheck it they have an option to view it.
-
-      • If they want to do any changes after viewing the entered data they have an option to modify it.
-
-5) **Participate in a challenge individually, i.e. not in a group:**
-
-    Individual challenges are accepted in Healthify-NWMSU app, because performing some challenges individually will help them to increase self-confident.
-    
-6) **View challenge data for the rest of their group:**
-
-     Not only doing their individual challenges, users also have permission to view challenge data of other group members.
- 
-7) **View data from past challenges:**
-
-     Users have the permission to revisit the challenges that was completed in the past. 
 
 ## Security must be addressed throughout the app:
 
