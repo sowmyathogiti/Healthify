@@ -25,6 +25,17 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 | Naga Anshitha Velagapudi | Tester |
 | Shiva Rama Krishna | UI Designer |
 
+*AS a admin, I want to be able to oversee and performing administrative functions concerned with a application, so I can better report our application with in time.
+
+*AS a developer, I want to be able to implement and manage application, so I can better report application design.
+
+*AS a developer, I want to be able to implement and manage application, so I can better report application design.
+
+*As a tester, I want to evaluate application, So I can better report application without any complexities. 
+
+*As a UI designer, I want to create overall concepts for the user experience within a webpage, so I can better ensure all interactions are intuitive and easy for customers.
+
+
 ## Benefits:
 
 - Monitor your diet every day
