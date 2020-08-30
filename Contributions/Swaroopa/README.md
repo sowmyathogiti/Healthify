@@ -11,7 +11,10 @@
 | 08/26/2020 | worked on my own |
 | 08/28/2020 | worked on my own |
 
-## Half day 1: Module1
+## Half day 1:
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class
+
 
 ## Half day 2: 
 
