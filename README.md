@@ -13,7 +13,7 @@ Main git repository ofour project is here [Healthify-NWMSU](https://github.com/s
 ### Hosted page link:  
 Main hosted page link is here [web page](https://www.fluidui.com/editor/live/preview/cF9aYnZXOGhXVFhRMU4wZ05jZzZGdkY0c01mRDFkekdRYw==)  
 ### Jira project link:  
-The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://sowmyathogiti27.atlassian.net/jira/servicedesk/projects/HN/queues/custom/1)  
+The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://sowmyathogiti27.atlassian.net/jira/software/projects/HN/boards/2)  
 
 ## User Roles
 
@@ -148,32 +148,32 @@ Sprint 3
 
 ## Schedule Management:
 
-![Schedule Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ScheduleManagementSS.png)
+![Schedule Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/Cost_schedule/ScheduleManagementSS.png)
 
 ## Cost Estimation
 
-![Cost Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/CostMng.png)
+![Cost Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/Cost_schedule/CostMng.png)
 
 
 ## User interface sketches:
 Healthify_NWMSU application design and interface sketches are having a common frame layout for all the screens. The opening page looks similar to common login pages for all other the applications which can also redirect to admin page with having a button on it. In the next page, you can redirect to admin login upon admin btton in the first page. In the next page you can find the basic profile details of each individuals of users and admins as well. In the third page you can find the workout tracker which enables you to get all kinds of workout mentioned in it and  tracked based on the perofrmed activity by each user. In the last page you can find the diet trcker by adding all the food taken as calorie count based upon the timings of it and the amounts food taken by inserting in the page. And each page will have individual challenges based on the steps/workout/diet.
 1. Login page for all users and a button specified for admin login in it.  
-![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen1-ios.JPG)  
+![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen1-ios.JPG)  
 
 2. Login page for admin for managing the whole application.  
-![Screen2](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen2-ios.JPG)  
+![Screen2](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen2-ios.JPG)  
 
 3. Admin view on the first page to switch from user to admin and various responsibilties mentioned.  
-![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen6-ios.JPG)
+![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen6-ios.JPG)
 
 4. Basic profile details of user which includes height/weight, heart rate, hydration levels, sleep hours maintained.  
-![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen3-ios.JPG)
+![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen3-ios.JPG)
 
 5. A screen to direct towards workout tracker of each indivdual user.  
-![Screen4](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen4-ios.JPG)
+![Screen4](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen4-ios.JPG)
 
 6. A screen to direct towards diet tracker of each individual user.  
-![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screen5-ios.JPG)    
+![Screen5](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen5-ios.JPG)    
 
 ## Technology stack descriptions:
 
@@ -208,12 +208,12 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
 	
 ## Jira WorkFlow:
 
-![jira workflow](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/jiraWorkflow.png)    
+![jira workflow](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Jira/jiraWorkflow.png)    
 
 
 ## ER Diagram
 
-![ER Diagram](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/ERD%20Healthify%20DT.png)
+![ER Diagram]
 
  ## Entity Relation Description
  An Entity Relationship Diagram shows the graphical description of entities (tables) in a database and relationships between tables within that database. 
@@ -261,32 +261,32 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  Admin can add same targets in multiple challenges. So, ther might be a chance that user can do same workout in different challenges. 
  
  ### Sample data:  
- Sample data of the mentioned entities of ER- diagram could be found in this file [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify%20Excel%20Sheet.xlsx)
+ Sample data of the mentioned entities of ER- diagram could be found in this file [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Healthify%20Excel%20Sheet.xlsx)
  
  Screens of sample data are below:
  1. User
  
- ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/User.png)
+ ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/User.png)
  
  2. Daily Level
  
- ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Daily%20Level.png)
+ ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Daily%20Level.png)
  
  3. Group
  
- ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Group.png)
+ ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Group.png)
  
  4. Group Member
  
- ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Group%20Member.png)
+ ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Group%20Member.png)
  
  5. Target
  
- ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Target.png)
+ ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Target.png)
  
  6. Challenge
  	
-  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Challenge.png)
+  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Challenge.png)
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
