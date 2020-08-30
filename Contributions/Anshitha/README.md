@@ -35,3 +35,5 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I added [screenshots](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/3f5555dc89a998c725e39cb3874fd3ae8e2a9a51#diff-94aaf6fc31cb5c3345d693fe0dbf863d) of excel sheet of sample data as per the comments of professor.
 - Here is the [invite](https://nwmissouri.instructure.com/courses/32360/assignments/415545/submissions/31027) to client for presenting our mobile application.
 
+# Meetings
+Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings
