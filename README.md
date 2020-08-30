@@ -78,8 +78,9 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 6. As a user, I want to view challenge data for the rest of their group, so I can learn new things from group members.
 
-7. As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges 
+7. As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges.
 
+8. As a user, I want to able to access the drop-down list given in an application.
 
 ## Security must be addressed throughout the app:
 
