@@ -82,6 +82,8 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 8. As a user, I want to able to access the drop-down list given in an application.
 
+9. As a user, I want to navigate across different screens.
+
 ## Security must be addressed throughout the app:
 
 - The Healthify-NWMSU app will provide convenient and clear controls for administrator functions.
