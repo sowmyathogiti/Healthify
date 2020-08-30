@@ -3,9 +3,11 @@
 ### Attendance
 | Date of Class attended | Mode of Class | Discussion |
 |------------------------|---------------|------------|
+| 08/19/2020 | No-class | Worked on my own for upcoming assignments |
+| 08/11/2020 | online | Worked on my own for upcoming assignments |
 | 08/24/2020 | In-person | worked on RFP based on client requirements done on 08/21/2020 |
-| 08/26/2020 | online | followedinstructions mentioned in the assingments|
-| 08/28/2020 | online | representatore from our team joined class to check projector for coming wednesday presentation|
+| 08/26/2020 | online | followed instructions mentioned in the assingments|
+| 08/28/2020 | online | representator from our team joined class to check projector for coming wednesday presentation|
 
 ### Half Day 1
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class. 
@@ -23,7 +25,7 @@ Time alotted : 4hrs = 1hr in class + 3 hrs out of the class.
 
 - As per the work alotted to me, I have decided to develop screens for the applicaton which included the user login page, and the whole profile details saved screens in [here](https://www.fluidui.com/editor/live/preview/cF9aYnZXOGhXVFhRMU4wZ05jZzZGdkY0c01mRDFkekdRYw==) using helpful helpful site(FluidUI).
 - Each individual work from team was done and saved in repo using commits which can  be viewed [here](https://github.com/sowmyathogiti/Healthify-NWMSU/commits/master).
-- Work by me in adding the screens to repo was captured in my commits which leads page of commits by me [here](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=sowmyathogiti).
+- Work by me in adding the all application screens to repo was done and saved in commits by me [Commits by Sowmya](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=sowmyathogiti).
 
 
 ### Half Day 3
@@ -32,6 +34,7 @@ Time alotted : 4hrs = 1hr in class + 3 hrs out of the class.
 - After submitting the drafted version of request for proposal, we received few comments from Dr.Badami and made necessary corrections as per the review [comments](https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/30987).
 - In the comments posted by Dr. Badami, I have added two new screens in the application for admin and made necessary corrections in acceptance criteria checklist using a new [commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/7355a22315d0c3fd5d64549236f55e0832d84e29) .
 - I have organized all the attachments in the repository into specified folders and saved in a [commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/0b97d9d84d058b0fac4a65add629701cf29c74c2).
+- Created contributions folder and inidivdual folders for whole team in order to work for inidividual assigmnments and commit their work.[contributions](https://github.com/sowmyathogiti/Healthify-NWMSU/tree/master/Contributions).
 
 ### Meetings
 Meetings and discussions in our team are captured in [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
