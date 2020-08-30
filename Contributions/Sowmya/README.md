@@ -1,6 +1,7 @@
 # Module1- Individual 1  
 
 ### Attendance
+Worth 200 points
 | Date of Class attended | Mode of Class | Discussion |
 |------------------------|---------------|------------|
 | 08/19/2020 | No-class | Worked on my own for upcoming assignments |
