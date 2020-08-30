@@ -12,6 +12,8 @@
 | 08/26/2020 |   | &#9745; |
 | 08/28/2020 | &#9745; |    |
 
+We have total of 5 classes in which i have attended 2 Inclass and 3 out class.   
+
 
 ### Half Day 1
 
