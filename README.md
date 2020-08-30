@@ -84,6 +84,10 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 9. As a user, I want to navigate across different screens.
 
+10. As a user, I want a clear clarity and readability of application buttons.
+
+11. As a user, I want to know the difference between the active and inactive buttons.
+
 ## Security must be addressed throughout the app:
 
 - The Healthify-NWMSU app will provide convenient and clear controls for administrator functions.
