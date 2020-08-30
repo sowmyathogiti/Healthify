@@ -266,27 +266,27 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  Screens of sample data are below:
  1. User
  
- ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/User.png)
+ ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/User.png)
  
  2. Daily Level
  
- ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Daily%20Level.png)
+ ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Daily%20Level.png)
  
  3. Group
  
- ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Group.png)
+ ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Group.png)
  
  4. Group Member
  
- ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Group%20Member.png)
+ ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Group%20Member.png)
  
  5. Target
  
- ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Target.png)
+ ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Target.png)
  
  6. Challenge
  	
-  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Challenge.png)
+  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Challenge.png)
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
