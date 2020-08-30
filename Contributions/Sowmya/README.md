@@ -34,5 +34,5 @@ Time alotted : 4hrs = 1hr in class + 3 hrs out of the class.
 - I have organized all the attachments in the repository into specified folders and saved in a [commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/0b97d9d84d058b0fac4a65add629701cf29c74c2).
 
 ### Meetings
-
+Meetings and discussions in our team are captured in [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
 
