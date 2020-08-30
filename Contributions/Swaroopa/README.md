@@ -14,6 +14,10 @@
 ## Half day 1:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class
+- First a repo was created by our team lead and she invited us to accept the repo, after that we planned a schedule that will enable us to be successful.
+- As a group, we figured out how each member can contribute to complete these group submissions and created clear tasks for each member. 
+- After the clean and clear view on our proposal, I had started working on the administrator roles.
+Link to GitHub commit : https://github.com/sowmyathogiti/Healthify-NWMSU/commit/8cf4de2b834a58fa6878a53d662423d0c0d5c61d
 
 
 ## Half day 2: 
