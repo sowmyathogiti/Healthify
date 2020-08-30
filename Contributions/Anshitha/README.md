@@ -25,3 +25,4 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I have worked on creating sample data by using ER-Diagram and the requirements proposed by client.
 - Here is the [excel sheet](https://github.com/sowmyathogiti/Healthify-NWMSU/tree/master/sample_data) which I had worked.
+- [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/tree/master/sample_data) are the Screenshots of excel sheet which i have done.
