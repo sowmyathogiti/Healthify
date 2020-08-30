@@ -114,11 +114,10 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 - Users are able to view data from past challenges by clicking on the results.  
 - User can access the application only by submitting required details.   
 - Enabling responsive Mobile menu for Tablets and Mobiles.  
-- Easy Navigation across different screens.  
-- Clarity and Readability of application buttons.  
-- Responsiveness of drop-down lists.
-- Distinguishing the inactive buttons from active buttons.
-- Customers’ Payment data security.
+- User can Easily Navigate across different screens.  
+- User can have a clear Clarity and Readability of application buttons.  
+- User can have Responsiveness of drop-down lists.
+- User can Distinguish the inactive buttons from active buttons.
 
  ## Assigning user stories to Sprints:
 
