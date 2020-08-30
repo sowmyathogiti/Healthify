@@ -22,6 +22,7 @@ Time Allocated : 1 hour In class + 3 hours out class
 - The client has also discussed a few mandatory requirements which we need to develop in an application.
 - As a group, we have discussed the requirements, application development, and distributed work and taken the roles in interesting areas.
 - As a team leads Sowmya Thogiti created a Git repository and invited all the team members where we can collaborate and update our work in one repository.
+  REPO LINK: [REPO](https://github.com/sowmyathogiti/Healthify-NWMSU)
 - We have created a first sprint meeting where we have discussed a few innovative ideas apart from the client requirements which makes our application more reliable and          feasible.
 - We have created a JIRA project and started creating a few backlogs and listed our board in three categories To Do, Progress, and done.
   Link to JIRA: [JIRA](https://sowmyathogiti27.atlassian.net/jira/software/projects/HN/boards/2)
