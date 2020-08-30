@@ -10,3 +10,11 @@
 | 08/24/2020 | In-person |
 | 08/26/2020 | worked from home |
 | 08/28/2020 | In-person |
+
+2. Half day-1
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- Our team received requirements from client about developing health and wellness progress during client meeting in class.
+- Later-on we started discussing and preparing request for proposal. Our team met after class and started sharing and discussing the work.
+- I took responsibility to be the tester.
+- This is the [repo](https://github.com/sowmyathogiti/Healthify-NWMSU) that our team has worked on.
+- We discussed about creating jira and started working on it.
