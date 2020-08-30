@@ -1,1 +1,28 @@
 ## Meetings
+
+### Sprint 1
+1. Meeting 1 on 08/21/2020 over Zoom for 30min
+- Gathered requirements from the client and distributed work among team.
+- Screens design  by Sowmya
+- Development and Jira management by Vineetha
+- Cost/ Schedule and ERD by Shiva
+- Sample data by Anshitha
+- User stories by Swaroopa
+
+2. Meeting 2 on 08/24/2020 over Zoom for 60min
+- Discussed and finalized the screens of mobile application
+- In detail cost and schedule management
+- Finalized Admin/User reposibilities
+- Get confirmation on UI sketches.
+
+3. Meeting 3 on 08/26/2020 over Zoom for 30min
+- Setting up new challenges for user.
+- Accept and reject group assignments upon receiving mails from admin invites.
+- Discussed on how to fix the admin authorities.
+
+4. Meeting 4 on 08/28/2020 over Zoom for 30min
+- Gathered new user entity relationships and attributes.
+- Collected various kinds of data relating ER diagram.
+- Co-relating the data fetched within users and admins.
+- Addressed few security issues by new sign ups.
+- Discussed on how can we give access to users for modifying their entered data.
