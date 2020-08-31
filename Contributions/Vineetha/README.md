@@ -37,10 +37,11 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - As a developer i have implemented all the functional requirements required and stated in the user stories and updated in the Accepted criteria.[Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/a30e82519dbe6d43a3691c6e9d1292960f656e51)
 - I have created a detailed Schedule Management and Cost Management as instructed and adjusted to the given budget.
 [commit for Cost Estimation](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/651bf31c2d55a7f740a240e4a4aede89db56f9be)
+
 [commit for Schedule Management](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/0f1bec24bd8f17a496d53b2e326bcc8e60e8aa9c)
 - I have added the Benefits of our application to the users in the repo. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/3121e14091b342a2fae070387630b465c759ac43)
 - I have updated the repo with list of Acceptance Criteria.[Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/a30e82519dbe6d43a3691c6e9d1292960f656e51)
-- I have taken total responsibility for JIRA workflow distribution and divided work to all the team members. (Image)
+- I have taken total responsibility for JIRA workflow distribution and divided work to all the team members and updated the Screenshot of the work flow. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/1dcb648fa002b7b8edf06ddc132a89d9a18b63a7)
 
 
 ### Half Day 3:
@@ -51,7 +52,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - We got comments from Dr. Badami regarding the screens my teammate updated repo with two more screens. As a developer I have added functional requirements to those screens.
 - I have distributed the work in Jira workflow after getting the comments from Dr. Badami. (Image)
 
-[Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
+### [Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
 
 ### Meetings:
 
