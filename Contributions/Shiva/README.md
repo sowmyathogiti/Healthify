@@ -1,9 +1,7 @@
 ## Shiva Rama Krishna Vodnala
 
 ### Attendance (list the class periods you attended)
-* 08/21/2020
-* 08/24/2020
-* 08/28/2020
+
 | Date of Class  | Mode of Class |
 |------------------------|---------------|
 | 08/21/2020 | online |
