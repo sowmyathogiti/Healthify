@@ -35,4 +35,5 @@
 * On this day with the help of schedule management plan I have calculated the total cost required inorder to complete the entire project.
 * [Cost Management](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/41f6de25072b9e11145d561ecef6ca365f2268b8/CostMng.png)
 
+* [Synopsis of our team meetings](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
 * [Invitation to Client Dr.Beemer](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer)
