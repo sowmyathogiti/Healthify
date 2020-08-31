@@ -13,7 +13,7 @@
 
 ### Half day 1
 
-* On the First Day (08/19/2020) I have discussed with teammates and designed an entity relationship diagram with given entities and attributes.
+* On the First day I have discussed with teammates and designed an entity relationship diagram with given entities and attributes.
 * [ERD Diagram](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/41f6de25072b9e11145d561ecef6ca365f2268b8/ERD%20Healthify%20DT.png)
 
 * Also I have documented the business rules and description of the ERD. This is where everything gets sorted.
