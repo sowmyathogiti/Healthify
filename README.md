@@ -78,8 +78,15 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 6. As a user, I want to view challenge data for the rest of their group, so I can learn new things from group members.
 
-7. As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges 
+7. As a user, I want to able to view data from past challenges, so I can use my past data in my future challenges.
 
+8. As a user, I want to able to access the drop-down list given in an application.
+
+9. As a user, I want to navigate across different screens.
+
+10. As a user, I want a clear clarity and readability of application buttons.
+
+11. As a user, I want to know the difference between the active and inactive buttons.
 
 ## Security must be addressed throughout the app:
 
@@ -107,11 +114,10 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 - Users are able to view data from past challenges by clicking on the results.  
 - User can access the application only by submitting required details.   
 - Enabling responsive Mobile menu for Tablets and Mobiles.  
-- Easy Navigation across different screens.  
-- Clarity and Readability of application buttons.  
-- Responsiveness of drop-down lists.
-- Distinguishing the inactive buttons from active buttons.
-- Customers’ Payment data security.
+- User can Easily Navigate across different screens.  
+- User can have a clear Clarity and Readability of application buttons.  
+- User can have Responsiveness of drop-down lists.
+- User can Distinguish the inactive buttons from active buttons.
 
  ## Assigning user stories to Sprints:
 
