@@ -37,4 +37,6 @@ Worked on user stories and technological stack and provided clear view on techno
 - After first review on proposal based on the comments , I have updated user stories and also updated jira issues 
 
  (https://github.com/sowmyathogiti/Healthify-NWMSU/commit/bad11e6457daf08978e9b7f94ff74bee720764dd)
+ ## Meetings:
+  Meetings and discussions in our team are captured in[Link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
 
