@@ -48,8 +48,9 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 
 Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - After submitting the drafted version of RFP, we got few comments from Dr.Badami regarding the cost estimation and Schedule management. so, I took help my teammate and discussed regarding the schedule and cost and updated both Cost estimation and Schedule Management.
-- Updated the xlsx file in the repo of Schedule Management. (commit)
+- Updated the xlsx file in the repo of Schedule Management. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/8c09072fcc61e51d55337d3b50d88152af1070b9)
 - We got comments from Dr. Badami regarding the screens my teammate updated repo with two more screens. As a developer I have added functional requirements to those screens.
+  [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/11d271cab483a66653c864c2ace1f25505896b91)
 - I have distributed the work in Jira workflow after getting the comments from Dr. Badami. (Image)
 
 ### [Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
