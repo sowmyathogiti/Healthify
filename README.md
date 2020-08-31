@@ -214,7 +214,7 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
 	
 ## Jira WorkFlow:
 
-![jira workflow](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Jira/jiraWorkflow.png)    
+![jira workflow](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Jira/Screenshot%20(5).png)    
 
 
 ## ER Diagram
