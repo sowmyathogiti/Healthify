@@ -6,13 +6,13 @@
 
 Worth 200 points.
 
-| Class Dates | Attended In Class | worked by my own |
-|----------|-------------|-----------|
-| 08/19/2020 |    | &#9745;|
-| 08/21/2020 |    | &#9745; |
-| 08/24/2020 | &#9745; |  |
-| 08/26/2020 |   | &#9745; |
-| 08/28/2020 | &#9745; |    |
+| Class Dates | Mode Of Class |
+|----------|-------------|
+| 08/19/2020 | No Class |
+| 08/21/2020 | online |
+| 08/24/2020 | In class |
+| 08/26/2020 |  online |
+| 08/28/2020 | In Class |
 
 We have total of 5 classes in which i have attended 2 Inclass and 3 out class.   
 
@@ -52,6 +52,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - We got comments from Dr. Badami regarding the screens my teammate updated repo with two more screens. As a developer I have added functional requirements to those screens.
   [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/11d271cab483a66653c864c2ace1f25505896b91)
 - I have distributed the work in Jira workflow after getting the comments from Dr. Badami. [Jira work flow image link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Jira/Screenshot%20(5).png)
+- I have updated the Acceptance criteria. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/11d271cab483a66653c864c2ace1f25505896b91)
 - We have sent an [invitation](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to our client Dr.Beemer to attend our app Healthify-NWMSU development presentation. 
 
 ### [Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
