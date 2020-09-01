@@ -5,7 +5,7 @@ Worth 200 points
 | Date of Class attended | Mode of Class | Discussion |
 |------------------------|---------------|------------|
 | 08/19/2020 | No-class | Worked on my own for upcoming assignments |
-| 08/11/2020 | online | Worked on my own for upcoming assignments |
+| 08/21/2020 | online | Worked on my own for upcoming assignments |
 | 08/24/2020 | In-person | worked on RFP based on client requirements done on 08/21/2020 |
 | 08/26/2020 | online | followed instructions mentioned in the assingments|
 | 08/28/2020 | online | representator from our team joined class to check projector for coming wednesday presentation|
