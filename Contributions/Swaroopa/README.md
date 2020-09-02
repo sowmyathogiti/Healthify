@@ -1,7 +1,7 @@
 # Swaroopa Tirumalareddy
 ## Module1- Individual 1  
 ### Attendance (list the class periods you attended):
-Worth 200 points
+Worth 200 points- I have submitted assignment on time and I have submitted all the visible links in my submission 
 - As a inperson I have attended to class on 08/24/2020 
 - On 08/19/2020, 08/21/2020, 08/26/2020,08/28/2020 I have followed the instructions of professor and worked on my own 
 
