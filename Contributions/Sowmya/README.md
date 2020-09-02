@@ -5,7 +5,7 @@ Worth 200 points
 | Date of Class attended | Mode of Class | Discussion |
 |------------------------|---------------|------------|
 | 08/19/2020 | No-class | Worked on my own for upcoming assignments |
-| 08/11/2020 | online | Worked on my own for upcoming assignments |
+| 08/21/2020 | online | Worked on my own for upcoming assignments |
 | 08/24/2020 | In-person | worked on RFP based on client requirements done on 08/21/2020 |
 | 08/26/2020 | online | followed instructions mentioned in the assingments|
 | 08/28/2020 | online | representator from our team joined class to check projector for coming wednesday presentation|
@@ -36,7 +36,7 @@ Time alotted : 4hrs = 1hr in class + 3 hrs out of the class = Worth 300 points.
 - In the comments posted by Dr. Badami, I have added two new screens in the application for admin and made necessary corrections in acceptance criteria checklist using a new [commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/7355a22315d0c3fd5d64549236f55e0832d84e29) .
 - I have organized all the attachments in the repository into specified folders and saved in a [commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/0b97d9d84d058b0fac4a65add629701cf29c74c2).
 - Created contributions folder and inidivdual folders for whole team in order to work for inidividual assigmnments and commit their work [contributions](https://github.com/sowmyathogiti/Healthify-NWMSU/tree/master/Contributions).
-- I have sent an invite to client for attending our class presentation regarding Mobile application [invite](https://nwmissouri.instructure.com/courses/32360/assignments/415545/submissions/30987).
+- I have sent an invite to client for attending our class presentation regarding Mobile application [invitation](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer).
 
 ### Meetings
 Meetings and discussions in our team are captured in [here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)

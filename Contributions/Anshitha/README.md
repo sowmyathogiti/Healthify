@@ -33,7 +33,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - We submitted the Request for Proposal-complete draft and received some [comments](https://nwmissouri.instructure.com/courses/32360/assignments/415542/submissions/31027) from Dr.Charles Badami. So, we reviewed the comments and made changes according to those comments.
 - I added [screenshots](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/3f5555dc89a998c725e39cb3874fd3ae8e2a9a51#diff-94aaf6fc31cb5c3345d693fe0dbf863d) of excel sheet of sample data as per the comments of professor.
-- Here is the [invite](https://nwmissouri.instructure.com/courses/32360/assignments/415545/submissions/31027) to client for presenting our mobile application.
+- Here is the [invite](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to client for presenting our mobile application.
 
 # Meetings
 Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings
