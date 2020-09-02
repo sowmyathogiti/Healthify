@@ -5,11 +5,13 @@
 
 | Class Dates | Attended |
 |----------|-------------|
-| 08/19/2020 | Worked from home |
-| 08/21/2020 | Worked from home |
+| 08/19/2020 | Worked from home(No Class) |
+| 08/21/2020 | Worked from home(Online) |
 | 08/24/2020 | In-person |
-| 08/26/2020 | Worked from home |
+| 08/26/2020 | Worked from home(Online) |
 | 08/28/2020 | In-person |
+
+- I went to class representing our team to check projector for coming wednesday presentation.
 
 ## 2. Half day-1 (300 Points)
 
