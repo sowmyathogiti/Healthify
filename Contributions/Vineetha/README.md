@@ -56,6 +56,11 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - I have updated the Acceptance criteria. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/11d271cab483a66653c864c2ace1f25505896b91)
 - We have sent an [invitation](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to our client Dr.Beemer to attend our app Healthify-NWMSU development presentation. 
 
+### Half Day 4:
+
+- I have given presentation to the Client and demonstrated how we have developed our application and displayed the designed UI sketches.
+- Added Client Thank you [mail](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) to our repo.
+
 ### [Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
 
 ### Meetings:
