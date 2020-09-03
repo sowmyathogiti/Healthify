@@ -17,24 +17,24 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 ## User Roles
 
-| Names | User Roles |	
-|----------|-------------|	
-| Sowmya Thogiti | Admin |	
-| Vineetha Yenugula | Developer |	
-| Swaroopa TirumalaReddy | Developer |	
-| Naga Anshitha Velagapudi | Tester |
-| Shiva Rama Krishna | UI Designer |
+| Names | User Roles |
+|----------|-------------|
+| Sowmya Thogiti | Project Manager |
+| Vineetha Yenugula | Fullstack Developer |
+| Swaroopa TirumalaReddy | Backend Developer |
+| Naga Anshitha Velagapudi | UI and Tester |
+| Shiva Rama Krishna | DB Administrator |
 
-* As a admin, I want to be able to oversee and performing administrative functions concerned with a application, so I can better report our application with in time.
 
-* As a developer, I want to be able to implement and manage application, so I can better report application design. 
+* As a Project Manager, Sowmya Thogiti is responsible to oversee and performing administrative functions concerned with a application, so I can better report our application with in time.
 
-* As a developer, I want to be able to implement and manage application, so I can better report application design.
+* As a Fullstack Developer, Vineetha Yenugula , is responsible to manage both frontend and backend technologies.
 
-* As a tester, I want to evaluate application, so I can better report application without any complexities. 
+* As a DB Administrator, Shiva Rama Krishna is responsible to choose and manage right database based on type of datastorage.
 
-* As a UI designer, I want to create overall concepts for the user experience within a webpage, so I can better ensure all interactions are intuitive and easy for customers.
+* As a Backend Developer, Swaroopa is responsible to be able to build a logic code and manage application.
 
+* As a UI Developer and Tester, Anshitha is responsible to create overall concepts for the user experience within a webpage, also responsible to test the application functionality.
 
 
 ## Benefits:
