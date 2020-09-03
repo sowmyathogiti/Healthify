@@ -13,8 +13,9 @@ Worth 200 points.
 | 08/24/2020 | In class |
 | 08/26/2020 |  online |
 | 08/28/2020 | In Class |
+| 09/02/2020 | In Class |
 
-We have total of 5 classes in which i have attended 2 Inclass and 3 out class.   
+We have total of 6 classes in which i have attended 3 Inclass and 3 online.   
 
 
 ### Half Day 1:
