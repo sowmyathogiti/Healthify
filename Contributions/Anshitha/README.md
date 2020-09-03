@@ -39,7 +39,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 ## 5. Half day-4
 
-- Completed presentation today9/2/2020 with client and here is [ppt](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) that I prepared for today's presentation.
+- Completed presentation today (9/2/2020) with client and here is [ppt](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) that I prepared for today's presentation.
+- [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
 
 
 # Meetings
