@@ -59,7 +59,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 ### Half Day 4:
 
 - I have given presentation to the Client and demonstrated how we have developed our application and displayed the designed UI sketches.
-- Added Client Thank you [mail](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) to our repo.
+- Added Client Thank you [mail](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) to our repo.[commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/beb98ffb10db9921d3d55dfbc9a0968c9036cd01)
 
 ### [Vineetha's Total Commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=vineetha1996)
 
