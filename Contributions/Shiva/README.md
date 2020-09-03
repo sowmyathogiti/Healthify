@@ -10,7 +10,6 @@
 | 08/28/2020 | online | 
 
 
-
 ### Half day 1
 * Working Hours - 4
 
@@ -38,3 +37,7 @@
 
 * [Synopsis of our team meetings](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
 * [Invitation to Client Dr.Beemer](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer)
+
+### Half Day 4
+* Attended the presentation in the morning (09/02/2020). We demonstrated the product prototype.
+* Had a good conversation with the client and received few inputs on the application and started working on it.
