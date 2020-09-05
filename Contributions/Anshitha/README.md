@@ -37,7 +37,17 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I added [screenshots](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/3f5555dc89a998c725e39cb3874fd3ae8e2a9a51#diff-94aaf6fc31cb5c3345d693fe0dbf863d) of excel sheet of sample data as per the comments of professor.
 - Here is the [invite](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to client for presenting our mobile application.
 
-## 5. Half day-4
+
+
+### Module 1: Individual 2
+## 1. Half day-1
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I went to class on 08/31/2020 representing my whole team in order to check the connection to projector with laptop for presentation on 09/03/2020.
+- Our team has discussed everything to be presented to client and I have prepaerd PPT[https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx] 
+for presentation on 09/03/2020.
+
+## 2. Half day-2
 
 - Completed presentation today (9/2/2020) with client and here is [ppt](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) that I prepared for today's presentation.
 - [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
