@@ -273,7 +273,7 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  Screens of sample data are below:
  1. User
  
- ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/User.png)
+ ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/User%20(2).png)
  
  2. Daily Level
  
