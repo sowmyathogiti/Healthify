@@ -41,7 +41,6 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 
 # Module 1: Individual 2
-----
 # Naga Anshitha Velagapudi
 ---------------------------
 ## 1. Attendance (200 Points)
@@ -70,8 +69,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - We got comments regarding our presentation from our client and worked on it. 
-- Here are the [commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=anshithavelagapudi)
+- Here are the [commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=anshithavelagapudi) I have worked on.
 
 
 # Meetings
-Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings
+Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings.
