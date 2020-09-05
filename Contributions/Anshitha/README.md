@@ -39,7 +39,19 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 
 
-### Module 1: Individual 2
+# Module 1: Individual 2
+----
+# Naga Anshitha Velagapudi
+---------------------------
+## 1. Attendance (200 Points)
+- We have classes on every alternate day, I have attended only for few classes and the schedule is below.
+
+| Class Dates | Attended | 
+|----------|-------------|
+| 08/31/2020 | In-person |
+| 09/02/2020 | In-person |
+| 09/04/2020 | Online |
+
 ## 1. Half day-1
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
@@ -49,8 +61,14 @@ for presentation on 09/03/2020.
 
 ## 2. Half day-2
 
-- Completed presentation today (9/2/2020) with client and here is [ppt](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) that I prepared for today's presentation.
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- Completed presentation of our project today (9/2/2020) with our client.
 - [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
+
+## 3. Half day-3
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- We got comments regarding our presentation from qour client and worked on it. Here are the [commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=anshithavelagapudi)
 
 
 # Meetings
