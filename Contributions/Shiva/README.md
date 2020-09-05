@@ -10,7 +10,6 @@
 | 08/28/2020 | online | 
 
 
-
 ### Half day 1
 * Working Hours - 4
 
@@ -38,3 +37,9 @@
 
 * [Synopsis of our team meetings](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
 * [Invitation to Client Dr.Beemer](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer)
+
+### Half Day 4
+* Attended the presentation in the morning (09/02/2020). We demonstrated the product prototype.
+* Had a good conversation with the client and received few inputs on the application and started working on it.
+* I have updated ERD as per client requirements
+* [Commit Link for ERD](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/ed6f111f98bc1611f26277a3abfdfbdfe3af3dc7#diff-04c6e90faac2675aa89e2176d2eec7d8)

@@ -53,6 +53,10 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - We have sent an [invitation](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to our client Dr.Beemer to attend our app Healthify-NWMSU development presentation. 
 
 ### [My all commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=swaroopatirumalareddy)
+- As a part of client thank you task we just sent a thank you mail to our client and here is the link 
+https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail
+### Presentation link 
+https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx
 ### Meetings:
   Meetings and discussions in our team are captured in
   [Link] https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings
