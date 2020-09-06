@@ -290,8 +290,40 @@ And there's no denying the fact that we used HTML in Healthify app, which acted 
  
  Screens of sample data are below:
  1. User
- 
- ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/User%20(2).png)
+
+| UserID | Username     | Email                     | Password        | Created Date | Last Accessed   | Admin |
+| ------ | ------------ | ------------------------- | --------------- | ------------ | --------------- | ----- |
+| 111    | johnsmith99  | johnsmith99111@gmail.com  | johnsmith99547  | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 112    | amyjackson   | amyjackson111@gmail.com   | amyjackson547   | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 113    | william      | william111@gmail.com      | william547      | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 114    | sophiacathie | sophiacathie111@gmail.com | sophiacathie547 | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 115    | jacobmason   | jacobmason111@gmail.com   | jacobmason547   | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 116    | emmawilliam  | emmawilliam111@gmail.com  | emmawilliam547  | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 117    | Oliviajaden  | Oliviajaden111@gmail.com  | Oliviajaden547  | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 118    | Emilysmith   | Emilysmith111@gmail.com   | Emilysmith547   | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 119    | Natasha99    | Natasha99111@gmail.com    | Natasha99547    | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+| 120    | danieldanny  | danieldanny111@gmail.com  | danieldanny547  | 8/3/2020     | 7/27/20 7:20 PM | NO    |
+| 121    | Cummings     | Cummings111@gmail.com     | Cummings547     | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 122    | Cunningham   | Cunningham111@gmail.com   | Cunningham547   | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 123    | Cunningham   | Cunningham111@gmail.com   | Cunningham547   | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 124    | Curie        | Curie111@gmail.com        | Curie547        | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 125    | Daley        | Daley111@gmail.com        | Daley547        | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 126    | Dali         | Dali111@gmail.com         | Dali547         | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 127    | Daly         | Daly111@gmail.com         | Daly547         | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 128    | Daly         | Daly111@gmail.com         | Daly547         | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 129    | Damon        | Damon111@gmail.com        | Damon547        | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+| 130    | Dangerfield  | Dangerfield111@gmail.com  | Dangerfield547  | 8/3/2020     | 7/27/20 7:20 PM | NO    |
+| 131    | Daniel       | Daniel111@gmail.com       | Daniel547       | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 132    | Daniels      | Daniels111@gmail.com      | Daniels547      | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 133    | Darrow       | Darrow111@gmail.com       | Darrow547       | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 134    | Darwin       | Darwin111@gmail.com       | Darwin547       | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 135    | Dauten       | Dauten111@gmail.com       | Dauten547       | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 136    | Davis        | Davis111@gmail.com        | Davis547        | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 137    | Davis        | Davis111@gmail.com        | Davis547        | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 138    | Davisson     | Davisson111@gmail.com     | Davisson547     | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 139    | Dawkins      | Dawkins111@gmail.com      | Dawkins547      | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+
+
  
  2. Daily Level
  
