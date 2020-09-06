@@ -1,19 +1,19 @@
-# Healthify-NWMSU
+# Healthify
 
 ## Statement Of Purpose:
 
-“Our vision is to make healthy living easy, fun, and affordable for all”. The Healthify-NWMSU app can incorporate data from thousands of third-party apps that are designed to promote healthier habits — everything from nutrition to meditation to fitness. This app lets you keep all your health and fitness information under your control and in one place on your device.
+“Our vision is to make healthy living easy, fun, and affordable for all”. The Healthify app can incorporate data from thousands of third-party apps that are designed to promote healthier habits — everything from nutrition to meditation to fitness. This app lets you keep all your health and fitness information under your control and in one place on your device.
 
 ## Overview:
 
-Healthify-NWMSU isn’t the only fitness app that helps users track their diet and weight, and set fitness goals, but it certainly sets itself apart with its unique features and offerings. The free-to-download Healthify-NWMSU app allows users to track calories, set fitness goals, manage group challenges, view data from past challenges, participate in challenges, and measure progress. With a large database of foods and syncing capabilities with the industry’s leading fitness trackers, Healthify-NWMSU helps users track their daily food intake and measure calories accurately. As there is a saying “An app a day keeps the doctor away” our app justify this saying. 
+Healthify isn’t the only fitness app that helps users track their diet and weight, and set fitness goals, but it certainly sets itself apart with its unique features and offerings. The free-to-download Healthify app allows users to track calories, set fitness goals, manage group challenges, view data from past challenges, participate in challenges, and measure progress. With a large database of foods and syncing capabilities with the industry’s leading fitness trackers, Healthify helps users track their daily food intake and measure calories accurately. As there is a saying “An app a day keeps the doctor away” our app justify this saying. 
 
 ### Repository Link:  
-Main git repository ofour project is here [Healthify-NWMSU](https://github.com/sowmyathogiti/Healthify-NWMSU)  
+Main git repository ofour project is here [Healthify](https://github.com/sowmyathogiti/Healthify-NWMSU)  
 ### Hosted page link:  
 Main hosted page link is here [web page](https://www.fluidui.com/editor/live/preview/cF9aYnZXOGhXVFhRMU4wZ05jZzZGdkY0c01mRDFkekdRYw==)  
 ### Jira project link:  
-The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://sowmyathogiti27.atlassian.net/jira/software/projects/HN/boards/2)  
+The ticketing tool in this project is used here [Jira_Healthify](https://sowmyathogiti27.atlassian.net/jira/software/projects/HN/boards/2)  
 
 ## User Roles
 
@@ -91,21 +91,21 @@ The ticketing tool in this project is used here [Jira_Healthify-NWMSU](https://s
 
 ## Security must be addressed throughout the app:
 
-- The Healthify-NWMSU app will provide convenient and clear controls for administrator functions.
+- The Healthify app will provide convenient and clear controls for administrator functions.
 
-- The Healthify-NWMSU will allow users to enter, view and modify data quickly and it can be easily use modern UL elements.
+- The Healthify will allow users to enter, view and modify data quickly and it can be easily use modern UL elements.
 
-- The Healthify-NWMSU app will provide a clear confirmation when an operation is completed.
+- The Healthify app will provide a clear confirmation when an operation is completed.
 
-- The Healthify-NWMSU app will provide professional and friendly design and user experience principles.
+- The Healthify app will provide professional and friendly design and user experience principles.
 
-- The Healthify-NWMSU app is responsive and can able to work on various mobile devices from phones to laptops and tablets in various orientations.
+- The Healthify app is responsive and can able to work on various mobile devices from phones to laptops and tablets in various orientations.
 
-- The Healthify-NWMSU app will provides a customizable theme which contains several color options, we used NW bearcat color in all our pages .
+- The Healthify app will provides a customizable theme which contains several color options, we used NW bearcat color in all our pages .
 
 ## Acceptance Criteria:
 
-- The Healthify-NWMSU app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops.
+- The Healthify app will work on all devices like in all android devices ,an iphone SE , an iPad and in all laptops.
 - Admin is able to view and download all data entered by the user by just selecting the get data intoa file button.
 - Admin is able to  create and manage the user groups by selecting add symbol.
 - Admin is able to share challenge results with group members by clicking release results button.
@@ -163,7 +163,7 @@ Sprint 3
 
 
 ## User interface sketches:
-Healthify_NWMSU application design and interface sketches are having a common frame layout for all the screens. The opening page looks similar to common login pages for all other the applications which can also redirect to admin page with having a button on it. In the next page, you can redirect to admin login upon admin btton in the first page. In the next page you can find the basic profile details of each individuals of users and admins as well. In the third page you can find the workout tracker which enables you to get all kinds of workout mentioned in it and  tracked based on the perofrmed activity by each user. In the last page you can find the diet trcker by adding all the food taken as calorie count based upon the timings of it and the amounts food taken by inserting in the page. And each page will have individual challenges based on the steps/workout/diet.
+Healthify application design and interface sketches are having a common frame layout for all the screens. The opening page looks similar to common login pages for all other the applications which can also redirect to admin page with having a button on it. In the next page, you can redirect to admin login upon admin btton in the first page. In the next page you can find the basic profile details of each individuals of users and admins as well. In the third page you can find the workout tracker which enables you to get all kinds of workout mentioned in it and  tracked based on the perofrmed activity by each user. In the last page you can find the diet trcker by adding all the food taken as calorie count based upon the timings of it and the amounts food taken by inserting in the page. And each page will have individual challenges based on the steps/workout/diet.
 1. Login page for all users and a button specified for admin login in it.  
 ![Screen1](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen1-ios.JPG)  
 
@@ -184,18 +184,18 @@ Healthify_NWMSU application design and interface sketches are having a common fr
 
 ## Technology stack descriptions:
 
-- 	In Healthify-NWMSU app we used set of technologies, software, and tools like java, 
+- 	In Healthify app we used set of technologies, software, and tools like java, 
 java scripting, CSS, Html, pwa, XML which were used in the development and deployment of apps.
 
 - **Java Scripting:** 
 
 	As we all know JavaScript frameworks are well-suited to app development, as they can be used across a number of platforms, including iOS, Android, and Windows.
-	We used java scripting in Healthify-NWMSU app for step counting, calorie counting.
+	We used java scripting in Healthify app for step counting, calorie counting.
 
 - **HTML:**
 
 	Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser, which can be assisted by technologies such as - --Cascading Style Sheets (CSS) and scripting languages such as JavaScript
-And there's no denying the fact that we used HTML in Healthify-NWMSU app, which acted as a foundation for the app development. We used different kinds HTML tags like ordered  list, unordered list, headings.
+And there's no denying the fact that we used HTML in Healthify app, which acted as a foundation for the app development. We used different kinds HTML tags like ordered  list, unordered list, headings.
 
 - **CSS (Cascading Style Sheets):**
 
