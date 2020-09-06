@@ -173,7 +173,7 @@ Healthify_NWMSU application design and interface sketches are having a common fr
 3. Admin view on the first page to switch from user to admin and various responsibilties mentioned.  
 ![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen6-ios.JPG)
 
-4. Basic profile details of user which includes height/weight, heart rate, hydration levels, sleep hours maintained.  
+4. Basic profile details of user which includes height/weight, heart rate, water Intake, sleep hours maintained.  
 ![Screen3](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/screens/screen3-ios.JPG)
 
 5. A screen to direct towards workout tracker of each indivdual user.  
@@ -239,7 +239,7 @@ And there's no denying the fact that we used HTML in Healthify-NWMSU app, which 
  
  **2. DailyLevel**
  
- This entity stores the details of MeasurementDate, StepCount, Hydration, HoursOfSleep, FruitServings, VegetableServings, TotalServings.
+ This entity stores the details of MeasurementDate, StepCount, Water Intake, HoursOfSleep, FruitServings, VegetableServings, TotalServings.
  With the help of MeasurementDate we can retreive the activities done by the user on a particular day.
  
  **3. Group**
