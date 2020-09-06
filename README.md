@@ -290,28 +290,167 @@ And there's no denying the fact that we used HTML in Healthify app, which acted 
  
  Screens of sample data are below:
  1. User
- 
- ![User](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/User%20(2).png)
+
+| UserID | Username     | Email                     | Password        | Created Date | Last Accessed   | Admin |
+| ------ | ------------ | ------------------------- | --------------- | ------------ | --------------- | ----- |
+| 111    | johnsmith99  | johnsmith99111@gmail.com  | johnsmith99547  | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 112    | amyjackson   | amyjackson111@gmail.com   | amyjackson547   | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 113    | william      | william111@gmail.com      | william547      | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 114    | sophiacathie | sophiacathie111@gmail.com | sophiacathie547 | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 115    | jacobmason   | jacobmason111@gmail.com   | jacobmason547   | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 116    | emmawilliam  | emmawilliam111@gmail.com  | emmawilliam547  | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 117    | Oliviajaden  | Oliviajaden111@gmail.com  | Oliviajaden547  | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 118    | Emilysmith   | Emilysmith111@gmail.com   | Emilysmith547   | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 119    | Natasha99    | Natasha99111@gmail.com    | Natasha99547    | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+| 120    | danieldanny  | danieldanny111@gmail.com  | danieldanny547  | 8/3/2020     | 7/27/20 7:20 PM | NO    |
+| 121    | Cummings     | Cummings111@gmail.com     | Cummings547     | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 122    | Cunningham   | Cunningham111@gmail.com   | Cunningham547   | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 123    | Cunningham   | Cunningham111@gmail.com   | Cunningham547   | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 124    | Curie        | Curie111@gmail.com        | Curie547        | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 125    | Daley        | Daley111@gmail.com        | Daley547        | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 126    | Dali         | Dali111@gmail.com         | Dali547         | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 127    | Daly         | Daly111@gmail.com         | Daly547         | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 128    | Daly         | Daly111@gmail.com         | Daly547         | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 129    | Damon        | Damon111@gmail.com        | Damon547        | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+| 130    | Dangerfield  | Dangerfield111@gmail.com  | Dangerfield547  | 8/3/2020     | 7/27/20 7:20 PM | NO    |
+| 131    | Daniel       | Daniel111@gmail.com       | Daniel547       | 3/12/2020    | 8/12/20 1:20 PM | NO    |
+| 132    | Daniels      | Daniels111@gmail.com      | Daniels547      | 3/30/2020    | 8/23/20 3:40 AM | NO    |
+| 133    | Darrow       | Darrow111@gmail.com       | Darrow547       | 4/17/2020    | 7/27/20 7:20 PM | NO    |
+| 134    | Darwin       | Darwin111@gmail.com       | Darwin547       | 5/5/2020     | 8/12/20 1:20 PM | YES   |
+| 135    | Dauten       | Dauten111@gmail.com       | Dauten547       | 5/23/2020    | 8/23/20 3:40 AM | NO    |
+| 136    | Davis        | Davis111@gmail.com        | Davis547        | 6/10/2020    | 7/27/20 7:20 PM | NO    |
+| 137    | Davis        | Davis111@gmail.com        | Davis547        | 6/28/2020    | 8/12/20 1:20 PM | NO    |
+| 138    | Davisson     | Davisson111@gmail.com     | Davisson547     | 7/16/2020    | 8/23/20 3:40 AM | YES   |
+| 139    | Dawkins      | Dawkins111@gmail.com      | Dawkins547      | 8/21/2020    | 8/12/20 1:20 PM | NO    |
+
+
  
  2. Daily Level
  
- ![Daily Level](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Daily%20Level.png)
+ | MeasurementDate | StepCount | Water | HoursOfSleep | FruitServings(Cal) | VegetableServings(Cal) | TotalCalories |
+| --------------- | --------- | ----- | ------------ | ------------------ | ---------------------- | ------------- |
+| 3/12/2020       | 3452      | 2.5   | 8            | 350                | 218                    | 568           |
+| 3/30/2020       | 7828      | 2     | 9            | 320                | 250                    | 570           |
+| 4/17/2020       | 6000      | 3     | 8            | 420                | 290                    | 710           |
+| 5/5/2020        | 7500      | 2.5   | 7            | 360                | 220                    | 580           |
+| 5/23/2020       | 6500      | 3     | 7            | 290                | 350                    | 640           |
+| 6/10/2020       | 6472      | 2.8   | 6.5          | 209                | 420                    | 629           |
+| 6/28/2020       | 7200      | 2.6   | 7            | 467                | 299                    | 766           |
+| 7/16/2020       | 6738      | 2     | 8            | 527                | 201                    | 728           |
+| 8/3/2020        | 6389      | 3     | 7.5          | 268                | 479                    | 747           |
+| 8/21/2020       | 7863      | 3     | 8            | 638                | 493                    | 1131          |
+| 3/12/2020       | 2000      | 2.5   | 8            | 350                | 218                    | 568           |
+| 3/30/2020       | 3452      | 2     | 9            | 320                | 250                    | 570           |
+| 4/17/2020       | 7828      | 3     | 8            | 420                | 290                    | 710           |
+| 5/5/2020        | 6000      | 2.5   | 7            | 360                | 220                    | 580           |
+| 5/23/2020       | 7500      | 3     | 7            | 290                | 350                    | 640           |
+| 6/10/2020       | 6500      | 2.8   | 6.5          | 209                | 420                    | 629           |
+| 6/28/2020       | 6472      | 2.6   | 7            | 467                | 299                    | 766           |
+| 7/16/2020       | 7200      | 2     | 8            | 527                | 201                    | 728           |
+| 8/3/2020        | 6738      | 3     | 7.5          | 268                | 479                    | 747           |
+| 8/21/2020       | 6389      | 3     | 8            | 638                | 493                    | 1131          |
+| 3/12/2020       | 7863      | 2.5   | 8            | 350                | 218                    | 568           |
+| 3/30/2020       | 2000      | 2     | 9            | 320                | 250                    | 570           |
+| 4/17/2020       | 3452      | 3     | 8            | 420                | 290                    | 710           |
+| 5/5/2020        | 7828      | 2.5   | 7            | 360                | 220                    | 580           |
+| 5/23/2020       | 6000      | 3     | 7            | 290                | 350                    | 640           |
+| 6/10/2020       | 7500      | 2.8   | 6.5          | 209                | 420                    | 629           |
+| 6/28/2020       | 6500      | 2.6   | 7            | 467                | 299                    | 766           |
+| 7/16/2020       | 6472      | 2     | 8            | 527                | 201                    | 728           |
+| 8/3/2020        | 7200      | 3     | 7.5          | 268                | 479                    | 747           |
+
  
  3. Group
  
- ![Group](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Group.png)
+ | GroupID | CreatorID | CreatorName | CreatedDate | Last Edited      |
+| ------- | --------- | ----------- | ----------- | ---------------- |
+| 222     | 124       | Curie       | 5/24/2020   | 8/24/20 3:45 AM  |
+| 223     | 125       | Daley       | 5/24/2020   | 8/24/20 10:00 AM |
+| 224     | 126       | Dali        | 5/24/2020   | 8/24/20 10:30 AM |
+| 225     | 127       | Daly        | 5/24/2020   | 8/24/20 9:00 AM  |
+| 226     | 128       | Daly        | 5/24/2020   | 8/23/20 6:00 PM  |
+| 227     | 129       | Damon       | 5/24/2020   | 8/23/20 8:00 PM  |
+| 228     | 130       | Dangerfield | 5/24/2020   | 8/24/20 9:30 AM  |
+| 229     | 131       | Daniel      | 5/24/2020   | 8/24/20 3:45 AM  |
+| 230     | 132       | Daniels     | 5/24/2020   | 8/24/20 10:00 AM |
+| 231     | 133       | Darrow      | 5/24/2020   | 8/24/20 10:30 AM |
+| 232     | 134       | Darwin      | 5/24/2020   | 8/24/20 9:00 AM  |
+| 233     | 135       | Dauten      | 5/24/2020   | 8/23/20 6:00 PM  |
+| 234     | 136       | Davis       | 5/24/2020   | 8/23/20 8:00 PM  |
+| 235     | 137       | Davis       | 5/24/2020   | 8/24/20 9:30 AM  |
+| 236     | 138       | Davisson    | 5/24/2020   | 8/24/20 3:45 AM  |
+| 237     | 139       | Dawkins     | 5/24/2020   | 8/24/20 10:00 AM |
+| 238     | 140       | Day         | 5/24/2020   | 8/24/20 10:30 AM |
+| 239     | 141       | Dayan       | 5/24/2020   | 8/24/20 9:00 AM  |
+| 240     | 142       | Dean        | 5/24/2020   | 8/23/20 6:00 PM  |
+| 241     | 143       | Dean        | 5/24/2020   | 8/23/20 8:00 PM  |
+| 242     | 144       | Dean        | 5/24/2020   | 8/24/20 9:30 AM  |
+| 243     | 145       | de Bono     | 5/24/2020   | 8/24/20 3:45 AM  |
+| 244     | 146       | Debs        | 5/24/2020   | 8/24/20 10:00 AM |
+| 245     | 147       | Dee         | 5/24/2020   | 8/24/20 10:30 AM |
+| 246     | 148       | Degas       | 5/24/2020   | 8/24/20 9:00 AM  |
+| 247     | 149       | DeGeneres   | 5/24/2020   | 8/23/20 6:00 PM  |
+| 248     | 150       | Delacroix   | 5/24/2020   | 8/23/20 8:00 PM  |
+| 249     | 151       | de la Rocha | 5/24/2020   | 8/24/20 9:30 AM  |
+| 250     | 152       | Delay       | 5/24/2020   | 8/24/20 3:45 AM  |
+
  
  4. Group Member
  
- ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Group%20Member.png)
- 
+ | GroupID | DateInvited | DateAccepted | DateRejected | DateLeft |
+| --------- | ------------ | ------------- | -------------- | --------- |
+| 222       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 223       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 224       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 225       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 226       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 227       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 228       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 229       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 230       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 231       | 8/20/2020    | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 232       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 233       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 234       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 235       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 236       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 237       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 238       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 239       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 240       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 241       | 8/20/2020    | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 242       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 243       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 244       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 245       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 246       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 247       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 248       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 249       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 250       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+
  5. Target
  
- ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Target.png)
- 
+| Target Name               | Target Description                                          | Target Numerical Goal |
+| ------------------------- | ----------------------------------------------------------- | --------------------- |
+| 3k Run                    | Takeup this challenge to complete running for 3 kilometers  | 3(km)                 |
+| 5k Run                    | Takeup this challenge to complete running for 5 kilometers  | 5(km)                 |
+| 10k Run                   | Takeup this challenge to complete running for 10 kilometers | 10(km)                |
+| 30 days diet challenge    | Takeup this challenge to complete diet for 30 days          | 30(days)              |
+| 30 days workout challenge | Takeup this workout challenge to complete in 30 days        | 30(days)              |
+| 30 days step challenge    | Takeup this challenge to complete 3 lakh steps in 30 days   | 300000                |
+| 60 days diet challenge    | Takeup this challenge to complete diet in 60 days           | 60(days)              |
+| 60 days workout challenge | Takeup this workout challenge to complete in 60 days        | 60(days)              |
+| 60 days step challenge    | Takeup this challenge to complete 6 lakh steps in 60 days   | 600000(Steps)         | 
+
  6. Challenge
- 	
-  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Challenge.png)
+ 
+ | Challenge Name         | Designer     | Created Date | Last Edited      |
+| ---------------------- | ------------ | ------------ | ---------------- |
+| Diet Challenge         | sophiacathie | 8/1/2020     | 8/24/20 10:00 AM |
+| Workout Challenge      | Emilysmith   | 8/1/2020     | 8/24/20 8:00 AM  |
+| Step Challenge         | sophiacathie | 8/1/2020     | 8/23/20 9:00 PM  |
+| Calorie Burn Challenge | Emilysmith   | 8/1/2020     | 8/23/20 9:30 AM  |
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
