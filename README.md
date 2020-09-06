@@ -165,22 +165,40 @@ Sprint 3
 ## User interface sketches:
 Healthify application design and interface sketches are having a common frame layout for all the screens. The opening page looks similar to common login pages for all other the applications which can also redirect to admin page with having a button on it. In the next page, you can redirect to admin login upon admin btton in the first page. In the next page you can find the basic profile details of each individuals of users and admins as well. In the third page you can find the workout tracker which enables you to get all kinds of workout mentioned in it and  tracked based on the perofrmed activity by each user. In the last page you can find the diet trcker by adding all the food taken as calorie count based upon the timings of it and the amounts food taken by inserting in the page. And each page will have individual challenges based on the steps/workout/diet.
 1. Login page for all users and a button specified for admin login in it.  
+- Mobile
 ![Screen1](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen1-ios.JPG)  
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen1-web.JPG)
 
 2. Login page for admin for managing the whole application.  
+- Mobile
 ![Screen2](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen2-ios.JPG)  
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen2-web.JPG)
 
 3. Admin view on the first page to switch from user to admin and various responsibilties mentioned.  
-![Screen3](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen6-ios.JPG)
+- Mobile
+![Screen3](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen6-ios.JPG)  
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen3-web.JPG)
 
 4. Basic profile details of user which includes height/weight, heart rate, water Intake, sleep hours maintained.  
-![Screen3](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen3-ios.JPG)
+- Mobile
+![Screen3](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen3-ios.JPG)  
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen6-web.JPG)
 
 5. A screen to direct towards workout tracker of each indivdual user.  
-![Screen4](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen4-ios.JPG)
+- Mobile
+![Screen4](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen4-ios.JPG)   
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen4-web.JPG)
 
 6. A screen to direct towards diet tracker of each individual user.  
+- Mobile 
 ![Screen5](https://github.com/sowmyathogiti/Healthify/blob/master/screens/mobile/screen5-ios.JPG)    
+- Website
+![Screen01](https://github.com/sowmyathogiti/Healthify/blob/master/screens/website/screen5-web.JPG)
 
 ## Technology stack descriptions:
 
