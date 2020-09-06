@@ -211,7 +211,7 @@ And there's no denying the fact that we used HTML in Healthify app, which acted 
 	As PWA is intended to work on any platform which uses a standards-compliant browser that allows users to interact with the app independent of the connection when we are running app on internet browser. It also used for us to catch the app data ahead of time.
 
 - **XML (eXtensible Markup Language):**
-	It is a markup language created as a standard way to encode data in internet-based applications. In Healthify-NWMSU app we used XML to create layout files for android users. We mainly used XML for namespace, texting and for dimensions like adjustments width and height of the layout. 
+	It is a markup language created as a standard way to encode data in internet-based applications. In Healthify app we used XML to create layout files for android users. We mainly used XML for namespace, texting and for dimensions like adjustments width and height of the layout. 
 	
 ## Jira WorkFlow:
 
