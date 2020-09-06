@@ -397,15 +397,60 @@ And there's no denying the fact that we used HTML in Healthify app, which acted 
  
  4. Group Member
  
- ![Group Member](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Group%20Member.png)
- 
+ | GroupID | DateInvited | DateAccepted | DateRejected | DateLeft |
+| --------- | ------------ | ------------- | -------------- | --------- |
+| 222       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 223       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 224       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 225       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 226       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 227       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 228       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 229       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 230       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 231       | 8/20/2020    | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 232       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 233       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 234       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 235       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 236       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 237       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 238       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 239       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 240       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 241       | 8/20/2020    | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 242       | 8/23/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 243       | 8/23/2020    | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 244       | 8/20/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+| 245       | 8/1/2020     | 8/1/2020      | 8/6/2020       | 8/15/2020 |
+| 246       | 8/21/2020    | 7/22/2020     | 7/24/2020      | 7/25/2020 |
+| 247       | 8/24/2020    | 6/4/2020      | 6/10/2020      | 6/20/2020 |
+| 248       | 7/31/2020    | 8/20/2020     | 8/22/2020      | 8/23/2020 |
+| 249       | 8/4/2020     | 7/23/2020     | 7/24/2020      | 8/25/2020 |
+| 250       | 8/15/2020    | 8/21/2020     | 8/22/2020      | 8/25/2020 |
+
  5. Target
  
- ![Target](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Target.png)
- 
+| Target Name               | Target Description                                          | Target Numerical Goal |
+| ------------------------- | ----------------------------------------------------------- | --------------------- |
+| 3k Run                    | Takeup this challenge to complete running for 3 kilometers  | 3(km)                 |
+| 5k Run                    | Takeup this challenge to complete running for 5 kilometers  | 5(km)                 |
+| 10k Run                   | Takeup this challenge to complete running for 10 kilometers | 10(km)                |
+| 30 days diet challenge    | Takeup this challenge to complete diet for 30 days          | 30(days)              |
+| 30 days workout challenge | Takeup this workout challenge to complete in 30 days        | 30(days)              |
+| 30 days step challenge    | Takeup this challenge to complete 3 lakh steps in 30 days   | 300000                |
+| 60 days diet challenge    | Takeup this challenge to complete diet in 60 days           | 60(days)              |
+| 60 days workout challenge | Takeup this workout challenge to complete in 60 days        | 60(days)              |
+| 60 days step challenge    | Takeup this challenge to complete 6 lakh steps in 60 days   | 600000(Steps)         | 
+
  6. Challenge
- 	
-  ![Challenge](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/sample_data/Screenshots%20of%20Excel%20Sheet/Challenge.png)
+ 
+ | Challenge Name         | Designer     | Created Date | Last Edited      |
+| ---------------------- | ------------ | ------------ | ---------------- |
+| Diet Challenge         | sophiacathie | 8/1/2020     | 8/24/20 10:00 AM |
+| Workout Challenge      | Emilysmith   | 8/1/2020     | 8/24/20 8:00 AM  |
+| Step Challenge         | sophiacathie | 8/1/2020     | 8/23/20 9:00 PM  |
+| Calorie Burn Challenge | Emilysmith   | 8/1/2020     | 8/23/20 9:30 AM  |
  
  ### Original RFP:
 A link to original RFP which was in reference to develop this request for proposal is mentioned [here](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
