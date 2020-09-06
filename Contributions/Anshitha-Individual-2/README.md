@@ -13,8 +13,8 @@
 ## 1. Half day-1(300 Points)
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
-- I went to class on 08/31/2020 representing my whole team in order to check the connection to projector with laptop for presentation on 09/03/2020.
-- Our team has discussed everything to be presented to client and I have prepaerd [PPT](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) 
+- I went to class on 08/31/2020 representing my whole team to check the connection to the projector with a laptop for presentation on 09/03/2020.
+- Our team has discussed everything to be presented to the client and I have prepared [PPT](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) 
 for presentation on 09/03/2020.
 
 ## 2. Half day-2(300 Points)
