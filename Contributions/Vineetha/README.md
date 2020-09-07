@@ -129,6 +129,14 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - I have updated the Jira workflow with new issues that were discussed in the prior meeting.
 - I have taken part in the zoom meeting class so as to discuss the subsequent stages to manage the project which was facilitated by Dr. Badami. 
 
+## Meetings
+
+[Meetings](https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/meetings)
+
+- Discussion on website screens to be developed.
+- Updated on user stories acceptance.
+- Changes to be done based on the client/professor feedback.
+
 
 
 
