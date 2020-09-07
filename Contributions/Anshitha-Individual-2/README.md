@@ -14,7 +14,7 @@
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I went to class on 08/31/2020 representing my whole team to check the connection to the projector with a laptop for presentation on 09/03/2020.
-- Our team has discussed everything to be presented to the client and I have prepared [PPT](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) 
+- Our team has discussed everything to be presented to the client and I have prepared [PPT](https://github.com/sowmyathogiti/Healthify/blob/master/PPT.md) 
 for presentation on 09/03/2020.
 
 ## 2. Half day-2(300 Points)
@@ -35,3 +35,4 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 # Meetings
 Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings.
+Here is the proof of [Zoom](https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/Zoom%20Discussions%20.png) meeting
