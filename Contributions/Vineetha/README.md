@@ -91,7 +91,7 @@ We have total of 3 classes in which i have attended 1 Inclass and 2 online.
 Time Allocated : 1 hour In class + 3 hours out class - worth 300 points. 
 	
 
-- On the first half day, I have worked on the user stories, Acceptance criteria, and made a few changes as required, and updated in the proposal document. (commit)
+- On the first half day, I have worked on the user stories, Acceptance criteria, and made a few changes as required, and updated in the proposal document.
 - I have worked on the feedback given by Dr. Badami and made a few necessary changes. 
 - We have drafted an email to invite our client, Dr. Beemer, to join our project presentation.
 - I have added client thankyou mail to our repository. [commit](https://github.com/sowmyathogiti/Healthify/commit/4c9bf84ce9f33b650872731439f33483dcd720bf)
@@ -110,7 +110,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - We have attended the class on the second half-day for the client presentation. I have taken the initiation to give the presentation. I have demonstrated in detail how we explicated our application Healthify-NWMSU, described its benefits, displayed the designed UI sketches, and explained how it works for user and admin.
 - After the presentation, we got a few feedbacks from the client I have taken the notes of the client feedback and started working on it.
 - I have organized a meeting among the team and discussed about feedback and developed a few ideas to design a website UI design as per the client requirement.
-- I have developed the Jira workflow added issues into it and assigned work to all the team members to work on the feedback. [commit](https://github.com/sowmyathogiti/Healthify/commit/3b74d03a3637d0e4c3cece7af3441145d1ced797) [Image](https://github.com/sowmyathogiti/Healthify/blob/master/Jira/Screenshot%20(36).png)
+- I have developed the Jira workflow added issues into it and assigned work to all the team members to work on the feedback. [commit](https://github.com/sowmyathogiti/Healthify/commit/3b74d03a3637d0e4c3cece7af3441145d1ced797), [Image](https://github.com/sowmyathogiti/Healthify/blob/master/Jira/Screenshot%20(36).png)
 - I have worked on the user stories and Acceptance criteria as per the client requirement. [commit](https://github.com/sowmyathogiti/Healthify/commit/dee1a0e6367983268e4737950fe47da8160d8e48)
 - As per the client requirement, I have changed the application name to Healthify, changed hydration to water Intake and updated the whole proposal document.
 [commit](https://github.com/sowmyathogiti/Healthify/commit/458df694228d68231131da07d05bf8b65203980a)
@@ -124,7 +124,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - As per the client requirement, we have designed the UI for the web application.
 - I have updated the whole PPT with newly added web designed UI and modified version of the Phone screen UI and added into the proposal document. [commit](https://github.com/sowmyathogiti/Healthify/commit/09d5e05e16e282ad72ad2eb209381d3477a4944a)
 - As per the mentor’s requirement, I have converted the .ppt file into a .md file to make visible directly without downloading the raw material. [commit](https://github.com/sowmyathogiti/Healthify/commit/adb5ce73efc4e47a258a09968f6e432b1fcaeece)
-- I have updated the cost Estimation and added the new .xlsx file and added a screenshot into the proposal. [commit] (https://github.com/sowmyathogiti/Healthify/commit/55ef39d162ece4ceeb9322d8ca9bf855c892fe77), [commit](https://github.com/sowmyathogiti/Healthify/commit/ae6d33d8679fd4a9cb4ad8620a326f9a3e599a7a)
+- I have updated the cost Estimation and added the new .xlsx file and added a screenshot into the proposal.[commit](https://github.com/sowmyathogiti/Healthify/commit/55ef39d162ece4ceeb9322d8ca9bf855c892fe77) , [commit](https://github.com/sowmyathogiti/Healthify/commit/ae6d33d8679fd4a9cb4ad8620a326f9a3e599a7a)
 - Attended the meeting which was organized by our team members in order to discuss the subsequent steps that need to be taken to develop our application.
 - I have updated the Jira workflow with new issues that were discussed in the prior meeting.
 - I have taken part in the zoom meeting class so as to discuss the subsequent stages to manage the project which was facilitated by Dr. Badami. 
