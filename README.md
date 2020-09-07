@@ -159,7 +159,7 @@ Sprint 3
 
 ## Cost Estimation
 
-![Cost Management](https://raw.githubusercontent.com/sowmyathogiti/Healthify-NWMSU/master/Cost_schedule/CostMng.png)
+![Cost Management](https://github.com/sowmyathogiti/Healthify/blob/master/Cost_schedule/Screenshot%20(35).png)
 
 
 ## User interface sketches:
