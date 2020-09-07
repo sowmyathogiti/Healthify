@@ -89,6 +89,10 @@ The ticketing tool in this project is used here [Jira_Healthify](https://sowmyat
 
 11. As a user, I want to know the difference between the active and inactive buttons.
 
+12. As a user, I would like access the user login and admin login page using web application
+
+13. As a user, I would like to add/modify profile, track workout, track die by using web applicationz.
+
 ## Security must be addressed throughout the app:
 
 - The Healthify app will provide convenient and clear controls for administrator functions.
@@ -119,6 +123,9 @@ The ticketing tool in this project is used here [Jira_Healthify](https://sowmyat
 - User can have a clear Clarity and Readability of application buttons.  
 - User can have Responsiveness of drop-down lists.
 - User can Distinguish the inactive buttons from active buttons.
+- User can access login page from web application.
+- Admin can access login page from web application.
+- User can update and modify his profile page, track diet and track workout from web application 
 
  ## Assigning user stories to Sprints:
 
