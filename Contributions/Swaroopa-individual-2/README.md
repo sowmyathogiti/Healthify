@@ -39,3 +39,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail
 - I personally worked on individual clinet notes and reflection, on which I prepared some hand written notes on our presentation and I also worked on two things that our team performed good from the past couple of weeks and two areas that we need to improve
 - On 4th sept we had a zoom class in which we talked about previous presentation and also talked about module 2 groups
+### Meetings:
+
+https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/meetings
+### Zoom Meeting Png: Here is the link to meeting
+https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/Zoom%20Discussions%20.png
