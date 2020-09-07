@@ -18,7 +18,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - On first half day, I got a few preliminary comments regarding my first individual contribution report, based on the comments I started working on including personal commit links and 
 I also accounted all the points that I earned for each section of the rubric 
 - Link to github: https://github.com/sowmyathogiti/Healthify-NWMSU/commit/6a0397712dad7380aabc77bd30c01a6225aca76b
-- We have had a review on our assignments and we have prepared and made some modifications in our project repository, for our client presentation.
+- We  had a review on our assignments and we have prepared and made some modifications in our project repository, for our client presentation.
 - Link to github: https://github.com/sowmyathogiti/Healthify-NWMSU/commit/b4e9984540403d24f266d19b5601bdb17bf52953
 
 ### Half Day 2:
@@ -42,5 +42,6 @@ https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Clien
 ### Meetings:
 
 https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/meetings
-### Zoom Meeting Png: Here is the link to meeting
+### Zoom Meeting Png: Here is the link to meeting documentation:
+
 https://github.com/sowmyathogiti/Healthify/blob/master/Contributions/Zoom%20Discussions%20.png
