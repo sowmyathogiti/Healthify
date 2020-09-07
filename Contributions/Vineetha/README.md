@@ -56,7 +56,7 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 - I have updated the Acceptance criteria. [Commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/11d271cab483a66653c864c2ace1f25505896b91)
 - We have sent an [invitation](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Invitation%20to%20Dr.Beemer) to our client Dr.Beemer to attend our app Healthify-NWMSU development presentation. 
 
-### Half Day 4:
+### Half Day :
 
 - I have given presentation to the Client and demonstrated how we have developed our application and displayed the designed UI sketches.
 - Added Client Thank you [mail](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) to our repo.[commit](https://github.com/sowmyathogiti/Healthify-NWMSU/commit/beb98ffb10db9921d3d55dfbc9a0968c9036cd01)
@@ -66,6 +66,71 @@ Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
 ### Meetings:
 
 [Meetings](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings)
+
+
+# Module 1 : Individual 2
+	
+
+### Attendance:
+	
+Worth 200 points.
+	
+| Class Dates | Mode Of Class |
+|----------|-------------| 
+| 08/31/2020 | online |
+| 09/02/2020 | In - Person |
+| 09/4/2020 | Zoom class |
+	
+
+We have total of 3 classes in which i have attended 1 Inclass and 2 online.
+	
+
+### Half Day 1:
+	
+
+Time Allocated : 1 hour In class + 3 hours out class - worth 300 points. 
+	
+
+- On the first half day, I have worked on the user stories, Acceptance criteria, and made a few changes as required, and updated in the proposal document. (commit)
+- I have worked on the feedback given by Dr. Badami and made a few necessary changes. 
+- We have drafted an email to invite our client, Dr. Beemer, to join our project presentation.
+  (image)
+- I have added client thankyou mail to our repository. (commit)
+- I have assigned work to our teammate Anshitha to work on the presentation PPT.
+- I have added a few things like the logo for our application and made few changes to the PPT as per my requirements to present at the client presentation.
+- As I am presenting our project to the client I have gathered total information regarding our project from different areas and gained total knowledge.
+- I have prepared my notes, discussed with our team, and taken feedback from them to rectify.
+
+	
+
+### Half Day 2:
+	
+
+Time Allocated : 1 hour In class + 3 hours out class - worth 300 points. 
+
+- We have attended the class on the second half-day for the client presentation. I have taken the initiation to give the presentation. I have demonstrated in detail how we explicated our application Healthify-NWMSU, described its benefits, displayed the designed UI sketches, and explained how it works for user and admin.
+- After the presentation, we got a few feedbacks from the client I have taken the notes of the client feedback and started working on it.
+- I have organized a meeting among the team and discussed about feedback and developed a few ideas to design a website UI design as per the client requirement.
+- I have developed the Jira workflow added issues into it and assigned work to all the team members to work on the feedback. (image)
+- I have worked on the user stories and Acceptance criteria as per the client requirement. (commit)
+- As per the client requirement, I have changed the application name to Healthify and updated the whole proposal document. (commit)
+
+	
+
+### Half Day 3:
+	
+
+Time Allocated : 1 hour In class + 3 hours out class - worth 300 points.
+
+- As per the client requirement, we have designed the UI for the web application.
+- I have updated the whole PPT with newly added web designed UI and modified version of the Phone screen UI and added into the proposal document. (commit)
+- As per the mentor’s requirement, I have converted the .ppt file into a .md file to make visible directly without downloading the raw material. (commit)
+- I have updated the cost Estimation and added the new .xlsx file and added a screenshot into the proposal. (commit)
+- Attended the meeting which was organized by our team members in order to discuss the subsequent steps that need to be taken to develop our application.
+- I have updated the Jira workflow with new issues that were discussed in the prior meeting.
+- I have taken part in the zoom meeting class so as to discuss the subsequent stages to manage the project which was facilitated by Dr. Badami. 
+
+
 
 
 
